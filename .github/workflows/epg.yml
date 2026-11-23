@@ -1,0 +1,25 @@
+name: Aggiorna guida TV
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Costruisci la guida
+        run: python3 build_epg.py
+
+      - name: Salva i file aggiornati
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "epg-bot@users.noreply.github.com"
+          git add epg
+          git diff --cached --quiet || (git commit -m "Aggiorna guida" && git push)
