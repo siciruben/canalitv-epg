@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Guida TV leggera per Canali TV.
+"""Guida TV leggera per Canali TV (versione 2: aggancio per id e per nome).
 
-Scarica la guida XMLTV di un paese, tiene solo i canali presenti nelle playlist
-usate dall'app e solo i programmi delle prossime ore, e scrive un piccolo JSON:
+Scarica la guida XMLTV di un paese, tiene i canali che corrispondono a quelli delle
+playlist usate dall'app (per id oppure per nome) e solo i programmi delle prossime ore.
 
-  epg/<paese>.json  ->  {"v":1,"t":<epoch>,"c":{"Rai1.it":[[inizio,fine,"Titolo"],...]}}
+Scrive:
+  epg/<paese>.json   {"v":2,"t":<epoch>,"p":{idGuida:[[inizio,fine,"Titolo"],...]},
+                      "m":{chiaveNome:idGuida}}
+  epg/diagnosi.txt   quali canali sono coperti e quali no (per controllare la qualita')
 
-Gli orari sono secondi Unix (UTC), quindi la TV non deve fare conversioni di fuso.
-Nessuna dipendenza esterna: basta Python 3.
+Gli orari sono secondi Unix (UTC). Nessuna dipendenza esterna: basta Python 3.
 """
 import gzip
 import io
@@ -20,7 +22,6 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-# Per aggiungere un paese basta una nuova voce (poi lo si aggiunge anche nell'app).
 PAESI = {
     "it": {
         "epg": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
@@ -37,8 +38,8 @@ PAESI = {
     #                     "https://iptv-org.github.io/iptv/countries/de.m3u"]},
 }
 
-PASSATO = 2 * 3600   # tengo anche i programmi finiti da poco
-FUTURO = 36 * 3600   # e quelli delle prossime 36 ore
+PASSATO = 2 * 3600
+FUTURO = 36 * 3600
 UA = {"User-Agent": "Mozilla/5.0 (CanaliTV-EPG)"}
 
 
@@ -48,14 +49,32 @@ def scarica(url):
         return r.read()
 
 
-def id_playlist(url):
+def chiave(nome):
+    """Stessa normalizzazione dell'app (keyOf in index.html)."""
+    n = re.sub(r"[\u24B6-\u24E9]", "", nome or "")
+    n = re.sub(r"[\(\[].*?[\)\]]", "", n)
+    n = re.sub(r"\s+", " ", n).strip().lower()
+    return re.sub(r"hd|\s|[^a-z0-9]", "", n)
+
+
+def leggi_playlist(url):
+    """Restituisce (id, {chiave: nome}) dei canali della playlist."""
     testo = scarica(url).decode("utf-8", "replace")
-    # iptv-org aggiunge un suffisso tipo "@SD": lo tolgo per far combaciare gli id
-    return {re.sub(r"@.*$", "", m) for m in re.findall(r'tvg-id="([^"]+)"', testo) if m}
+    ids, nomi = set(), {}
+    for riga in testo.splitlines():
+        if not riga.startswith("#EXTINF"):
+            continue
+        m = re.search(r'tvg-id="([^"]+)"', riga)
+        if m:
+            ids.add(re.sub(r"@.*$", "", m.group(1)))
+        for nome in (riga.rsplit(",", 1)[-1].strip(), (re.search(r'tvg-name="([^"]*)"', riga) or [None, ""])[1]):
+            k = chiave(nome)
+            if k:
+                nomi.setdefault(k, nome)
+    return ids, nomi
 
 
 def epoch(s):
-    """'20261123203000 +0100' -> secondi Unix UTC."""
     m = re.match(r"\s*(\d{14})\s*([+-]\d{4})?", s)
     dt = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
     off = m.group(2)
@@ -68,52 +87,79 @@ def epoch(s):
 
 
 def costruisci(codice, cfg, adesso=None):
-    ids = set()
+    pl_ids, pl_nomi = set(), {}
     for u in cfg["playlist"]:
         try:
-            ids |= id_playlist(u)
-        except Exception as e:  # una playlist irraggiungibile non deve fermare tutto
+            i, n = leggi_playlist(u)
+            pl_ids |= i
+            for k, v in n.items():
+                pl_nomi.setdefault(k, v)
+        except Exception as e:
             print(f"[{codice}] playlist non letta: {u} ({e})")
-    print(f"[{codice}] canali con id nelle playlist: {len(ids)}")
+    print(f"[{codice}] playlist: {len(pl_ids)} id, {len(pl_nomi)} nomi")
 
     xml = gzip.decompress(scarica(cfg["epg"]))
     print(f"[{codice}] guida scaricata: {len(xml) / 1e6:.1f} MB non compressi")
 
     ora = int(adesso or time.time())
     da, a = ora - PASSATO, ora + FUTURO
-    out, visti = {}, set()
+    alias = {}   # id guida -> insieme di chiavi dai display-name
+    nomi_g = {}  # id guida -> primo display-name
+    prog = {}
     for _, el in ET.iterparse(io.BytesIO(xml), events=("end",)):
         if el.tag == "channel":
-            visti.add(el.get("id"))
+            cid = el.get("id")
+            for d in el.findall("display-name"):
+                if d.text:
+                    nomi_g.setdefault(cid, d.text.strip())
+                    k = chiave(d.text)
+                    if k:
+                        alias.setdefault(cid, set()).add(k)
         elif el.tag == "programme":
             cid = el.get("channel")
-            if cid and (not ids or cid in ids):
-                try:
-                    s, e = epoch(el.get("start")), epoch(el.get("stop"))
-                except Exception:
-                    s = e = 0
-                if e > da and s < a:
-                    t = el.find("title")
-                    titolo = (t.text or "").strip() if t is not None else ""
-                    if titolo:
-                        out.setdefault(cid, []).append([s, e, titolo])
+            try:
+                s, e = epoch(el.get("start")), epoch(el.get("stop"))
+            except Exception:
+                s = e = 0
+            if cid and e > da and s < a:
+                t = el.find("title")
+                titolo = (t.text or "").strip() if t is not None else ""
+                if titolo:
+                    prog.setdefault(cid, []).append([s, e, titolo])
             el.clear()
 
-    for cid in out:
-        out[cid].sort()
+    # scelgo i canali della guida che corrispondono a un canale delle playlist
+    scelti, mappa = {}, {}
+    for cid, lista in prog.items():
+        chiavi = alias.get(cid, set())
+        k_id = chiave(cid.split(".")[0])
+        ok_id = cid in pl_ids
+        k_ok = {k for k in chiavi | {k_id} if k in pl_nomi}
+        if ok_id or k_ok:
+            lista.sort()
+            scelti[cid] = lista
+            for k in k_ok:
+                mappa.setdefault(k, cid)
 
-    if ids:
-        senza = sorted(i for i in ids if i not in out)
-        print(f"[{codice}] canali con programmi: {len(out)} su {len(ids)}")
-        if senza:
-            print(f"[{codice}] senza guida ({len(senza)}): " + ", ".join(senza[:80]) + (" ..." if len(senza) > 80 else ""))
-    if not out:
-        raise RuntimeError(f"[{codice}] nessun programma trovato: tengo il file precedente")
-
+    # diagnosi leggibile
+    righe = [f"Guida: {len(prog)} canali con programmi nella finestra; scelti: {len(scelti)}", ""]
+    righe.append("== Canali della GUIDA (con programmi) e se agganciati ==")
+    for cid in sorted(prog):
+        righe.append(f"{'SI ' if cid in scelti else 'NO '} {cid}  |  {nomi_g.get(cid, '')}  |  {len(prog[cid])} programmi")
+    agganciate = set(mappa) | {chiave(c.split('.')[0]) for c in scelti if c in pl_ids}
+    righe += ["", "== Canali delle PLAYLIST senza guida (per nome) =="]
+    righe += sorted(v for k, v in pl_nomi.items() if k not in mappa)
     os.makedirs("epg", exist_ok=True)
+    with open(os.path.join("epg", "diagnosi.txt"), "w", encoding="utf-8") as f:
+        f.write("\n".join(righe) + "\n")
+
+    print(f"[{codice}] canali della guida con programmi: {len(prog)}; agganciati alle playlist: {len(scelti)}")
+    if not scelti:
+        raise RuntimeError(f"[{codice}] nessun canale agganciato: tengo il file precedente")
+
     path = os.path.join("epg", f"{codice}.json")
     with open(path, "w", encoding="utf-8") as f:
-        json.dump({"v": 1, "t": ora, "c": out}, f, ensure_ascii=False, separators=(",", ":"))
+        json.dump({"v": 2, "t": ora, "p": scelti, "m": mappa}, f, ensure_ascii=False, separators=(",", ":"))
     print(f"[{codice}] scritto {path}: {os.path.getsize(path) / 1024:.0f} KB")
 
 
