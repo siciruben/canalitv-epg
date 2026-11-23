@@ -3,12 +3,12 @@ Guida: 155 canali con programmi nella finestra; scelti: 77
 == Canali della GUIDA (con programmi) e se agganciati ==
 SI  20.it | 20 | 48 programmi
 SI  27.Twentyseven.it | 27 Twentyseven | 40 programmi
-NO  ACI.Sport.Tv.it | ACI Sport Tv | 35 programmi
+NO  ACI.Sport.Tv.it | ACI Sport Tv | 34 programmi
 NO  Al.Jazeera.Intl..HD.it | Al Jazeera Intl. HD | 59 programmi
-NO  Bloomberg.it | Bloomberg | 26 programmi
-SI  Boing.it | Boing | 156 programmi
-NO  Boomerang.it | Boomerang | 205 programmi
-SI  CACCIA.e.Pesca.it | CACCIA e Pesca | 78 programmi
+NO  Bloomberg.it | Bloomberg | 27 programmi
+SI  Boing.it | Boing | 155 programmi
+NO  Boomerang.it | Boomerang | 206 programmi
+SI  CACCIA.e.Pesca.it | CACCIA e Pesca | 77 programmi
 NO  CNBC.HD.it | CNBC HD | 73 programmi
 NO  CNN.Intl..it | CNN Intl. | 49 programmi
 SI  Caccia.e.PESCA.it | Caccia e PESCA | 71 programmi
@@ -16,7 +16,7 @@ SI  Canale.5.it | Canale 5 | 48 programmi
 SI  Cartoon.Network.it | Cartoon Network | 164 programmi
 SI  Cartoonito.it | Cartoonito | 189 programmi
 SI  Cine34.it | Cine34 | 24 programmi
-SI  Class.CNBC.it | Class CNBC | 36 programmi
+SI  Class.CNBC.it | Class CNBC | 37 programmi
 NO  Classica.HD.it | Classica HD | 33 programmi
 SI  Comedy.Central.it | Comedy Central | 93 programmi
 NO  DAZN.1.it.it | DAZN 1 | 28 programmi
@@ -24,26 +24,26 @@ NO  DAZN.2.it.it | DAZN 2 | 7 programmi
 SI  DMAX.it | DMAX | 34 programmi
 NO  DeAJunior.it | DeAJunior | 266 programmi
 SI  DeAKids.it | DeAKids | 160 programmi
-SI  Deejay.TV.it | Deejay TV | 24 programmi
+SI  Deejay.TV.it | Deejay TV | 23 programmi
 SI  Discovery.Channel.it | Discovery Channel | 29 programmi
-SI  EQUtv.it | EQUtv | 12 programmi
+SI  EQUtv.it | EQUtv | 13 programmi
 NO  Euronews.it | Euronews | 155 programmi
 NO  Eurosport.2.Italia.it | Eurosport 2 Italia | 37 programmi
-NO  Eurosport.Italia.it | Eurosport Italia | 39 programmi
+NO  Eurosport.Italia.it | Eurosport Italia | 40 programmi
 SI  Focus.it | Focus | 39 programmi
 SI  Food.Network.it | Food Network | 65 programmi
 NO  Fox.Business.it | Fox Business | 40 programmi
 NO  Fox.News.it | Fox News | 30 programmi
 NO  France.24.English.HD.it | France 24 English HD | 193 programmi
 NO  France.24.Francais.HD.it | France 24 Francais HD | 164 programmi
-NO  GF.VIP.-.Regia.1.it | GF VIP - Regia 1 | 8 programmi
-NO  GF.VIP.-.Regia.2.it | GF VIP - Regia 2 | 8 programmi
-NO  GF.VIP.-.Un’ora.fa.it | GF VIP - Un’ora fa | 8 programmi
-SI  Gambero.Rosso.HD.it | Gambero Rosso HD | 75 programmi
+NO  GF.VIP.-.Regia.1.it | GF VIP - Regia 1 | 7 programmi
+NO  GF.VIP.-.Regia.2.it | GF VIP - Regia 2 | 7 programmi
+NO  GF.VIP.-.Un’ora.fa.it | GF VIP - Un’ora fa | 7 programmi
+SI  Gambero.Rosso.HD.it | Gambero Rosso HD | 76 programmi
 SI  Giallo.TV.it | Giallo TV | 28 programmi
-SI  HGTV.it | HGTV | 51 programmi
+SI  HGTV.it | HGTV | 52 programmi
 NO  History.it | History | 41 programmi
-SI  Horse.TV.HD.it | Horse TV HD | 42 programmi
+SI  Horse.TV.HD.it | Horse TV HD | 43 programmi
 SI  Inter.TV.it | Inter TV | 57 programmi
 SI  Iris.it | Iris | 23 programmi
 SI  Italia.1.it | Italia 1 | 57 programmi
@@ -52,26 +52,26 @@ SI  LA7.CINEMA.it | LA7 CINEMA | 25 programmi
 SI  LA7.HD.it | LA7 HD | 39 programmi
 SI  LA7D.it | LA7D | 25 programmi
 SI  La.5.it | La 5 | 44 programmi
-NO  MTV.HD.it | MTV HD | 58 programmi
-SI  Mediaset.Extra.it | Mediaset Extra | 16 programmi
+NO  MTV.HD.it | MTV HD | 59 programmi
+SI  Mediaset.Extra.it | Mediaset Extra | 15 programmi
 SI  Mediaset.Italia.-.America.it | Mediaset Italia - America | 45 programmi
-SI  Mediaset.Italia.-.Australia.e.Asia.it | Mediaset Italia - Australia e Asia | 45 programmi
+SI  Mediaset.Italia.-.Australia.e.Asia.it | Mediaset Italia - Australia e Asia | 44 programmi
 SI  Mediaset.Italia.-.Europa.e.Africa.it | Mediaset Italia - Europa e Africa | 42 programmi
 SI  Milan.TV.it | Milan TV | 7 programmi
 SI  Motor.Trend.it | Motor Trend | 37 programmi
 NO  NHK.World.TV.HD.it | NHK World TV HD | 140 programmi
 SI  Nick.Jr.it | Nick Jr | 92 programmi
-SI  Nickelodeon.it | Nickelodeon | 123 programmi
-SI  Nove.it | Nove | 38 programmi
+SI  Nickelodeon.it | Nickelodeon | 122 programmi
+SI  Nove.it | Nove | 37 programmi
 SI  R101tv.it | R101tv | 197 programmi
 SI  RADIOFRECCIA.HD.it | RADIOFRECCIA HD | 13 programmi
-SI  RADIONORBA.TV.it | RADIONORBA TV | 40 programmi
+SI  RADIONORBA.TV.it | RADIONORBA TV | 39 programmi
 NO  RAI.Sport...227.it | RAI Sport   227 | 25 programmi
 NO  RMC.it | RMC | 7 programmi
 SI  RTL.102.5.HD.it | RTL 102.5 HD | 18 programmi
 SI  Radio.Italia.TV.HD.it | Radio Italia TV HD | 16 programmi
 NO  Radio.Italia.Trend.Tv.HD.it | Radio Italia Trend Tv HD | 4 programmi
-NO  Rai.1.HD..101.it | Rai 1 HD  101 | 48 programmi
+NO  Rai.1.HD..101.it | Rai 1 HD  101 | 47 programmi
 NO  Rai.2.HD..102.it | Rai 2 HD  102 | 58 programmi
 NO  Rai.3.HD..103.it | Rai 3 HD  103 | 64 programmi
 NO  Rai.4..5021.it | Rai 4  5021 | 49 programmi
@@ -80,9 +80,9 @@ NO  Rai.Gulp..5042.it | Rai Gulp  5042 | 140 programmi
 NO  Rai.Movie..5024.it | Rai Movie  5024 | 19 programmi
 NO  Rai.News.24..508.it | Rai News 24  508 | 112 programmi
 NO  Rai.Premium..5025.it | Rai Premium  5025 | 34 programmi
-NO  Rai.Storia..5054.it | Rai Storia  5054 | 62 programmi
+NO  Rai.Storia..5054.it | Rai Storia  5054 | 63 programmi
 NO  Rai.Yoyo..5043.it | Rai Yoyo  5043 | 243 programmi
-SI  Rai1.it | Rai1 | 47 programmi
+SI  Rai1.it | Rai1 | 46 programmi
 SI  Rai2.it | Rai2 | 58 programmi
 SI  Rai3.it | Rai3 | 63 programmi
 SI  Rai4.it | Rai4 | 48 programmi
@@ -91,13 +91,13 @@ SI  RaiGulp.it | RaiGulp | 152 programmi
 SI  RaiMovie.it | RaiMovie | 19 programmi
 SI  RaiNews24.it | RaiNews24 | 111 programmi
 SI  RaiPremium.it | RaiPremium | 45 programmi
-NO  RaiRadio2.it | RaiRadio2 | 40 programmi
+NO  RaiRadio2.it | RaiRadio2 | 41 programmi
 SI  RaiSport.it | RaiSport | 24 programmi
-SI  RaiStoria.it | RaiStoria | 63 programmi
+SI  RaiStoria.it | RaiStoria | 64 programmi
 SI  RaiYoyo.it | RaiYoyo | 274 programmi
 SI  Real.Time.it | Real Time | 32 programmi
 SI  Rete.4.it | Rete 4 | 38 programmi
-SI  San.Marino.RTV.it | San Marino RTV | 50 programmi
+SI  San.Marino.RTV.it | San Marino RTV | 51 programmi
 NO  Sky.Adventure.it | Sky Adventure | 46 programmi
 NO  Sky.Arte.it | Sky Arte | 45 programmi
 NO  Sky.Atlantic.it | Sky Atlantic | 42 programmi
@@ -105,7 +105,7 @@ SI  Sky.Cinema.Action.it | Sky Cinema Action | 20 programmi
 SI  Sky.Cinema.Collection.it | Sky Cinema Collection | 20 programmi
 NO  Sky.Cinema.Comedy.it | Sky Cinema Comedy | 26 programmi
 NO  Sky.Cinema.Drama.it | Sky Cinema Drama | 20 programmi
-SI  Sky.Cinema.Due.it | Sky Cinema Due | 20 programmi
+SI  Sky.Cinema.Due.it | Sky Cinema Due | 19 programmi
 SI  Sky.Cinema.Family.it | Sky Cinema Family | 23 programmi
 NO  Sky.Cinema.Romance.it | Sky Cinema Romance | 22 programmi
 SI  Sky.Cinema.Suspense.it | Sky Cinema Suspense | 22 programmi
@@ -115,7 +115,7 @@ NO  Sky.Collection.it | Sky Collection | 52 programmi
 NO  Sky.Crime.it | Sky Crime | 48 programmi
 NO  Sky.Documentaries.+1.it | Sky Documentaries +1 | 41 programmi
 NO  Sky.Documentaries.it | Sky Documentaries | 41 programmi
-NO  Sky.Investigation.it | Sky Investigation | 42 programmi
+NO  Sky.Investigation.it | Sky Investigation | 43 programmi
 NO  Sky.Nature.it | Sky Nature | 43 programmi
 NO  Sky.News.it | Sky News | 65 programmi
 NO  Sky.Serie.it | Sky Serie | 45 programmi
@@ -128,32 +128,32 @@ NO  Sky.Sport..256.it | Sky Sport  256 | 2 programmi
 NO  Sky.Sport..257.it | Sky Sport  257 | 2 programmi
 NO  Sky.Sport..258.it | Sky Sport  258 | 1 programmi
 NO  Sky.Sport.24.it | Sky Sport 24 | 82 programmi
-NO  Sky.Sport.4K.it | Sky Sport 4K | 27 programmi
-NO  Sky.Sport.Arena.it | Sky Sport Arena | 36 programmi
+NO  Sky.Sport.4K.it | Sky Sport 4K | 28 programmi
+NO  Sky.Sport.Arena.it | Sky Sport Arena | 37 programmi
 NO  Sky.Sport.Calcio.it | Sky Sport Calcio | 34 programmi
 SI  Sky.Sport.F1.it | Sky Sport F1 | 58 programmi
 NO  Sky.Sport.Golf.it | Sky Sport Golf | 20 programmi
-NO  Sky.Sport.Legend.it | Sky Sport Legend | 30 programmi
+NO  Sky.Sport.Legend.it | Sky Sport Legend | 31 programmi
 NO  Sky.Sport.Max.it | Sky Sport Max | 35 programmi
-NO  Sky.Sport.Mix.it | Sky Sport Mix | 35 programmi
+NO  Sky.Sport.Mix.it | Sky Sport Mix | 36 programmi
 NO  Sky.Sport.MotoGP.it | Sky Sport MotoGP | 54 programmi
-NO  Sky.Sport.NBA.it | Sky Sport NBA | 34 programmi
+NO  Sky.Sport.NBA.it | Sky Sport NBA | 33 programmi
 NO  Sky.Sport.Tennis.it | Sky Sport Tennis | 30 programmi
 NO  Sky.Sport.Uno.it | Sky Sport Uno | 47 programmi
 SI  Sky.TG24.it | Sky TG24 | 102 programmi
-NO  Sky.Uno.+..it | Sky Uno + | 40 programmi
+NO  Sky.Uno.+..it | Sky Uno + | 39 programmi
 NO  Sky.Uno.+.it | Sky Uno + | 38 programmi
 NO  Sky.Uno.it | Sky Uno | 38 programmi
-NO  Solocalcio.it.it | Solocalcio | 37 programmi
+NO  Solocalcio.it.it | Solocalcio | 38 programmi
 SI  Sportitalia.HD.it | Sportitalia HD | 56 programmi
 SI  Super!.it | Super! | 84 programmi
-SI  SuperTennis.HD.it | SuperTennis HD | 28 programmi
+SI  SuperTennis.HD.it | SuperTennis HD | 29 programmi
 SI  TGCom.it | TGCom | 82 programmi
 SI  TOPcrime.HD..168.it | TOPcrime HD  168 | 46 programmi
 SI  TRM.h24.it | TRM h24 | 89 programmi
 SI  TV8.HD.it | TV8 HD | 43 programmi
 SI  Top.Crime.it | Top Crime | 46 programmi
-SI  VALUE.24.TV.it | VALUE 24 TV | 103 programmi
+SI  VALUE.24.TV.it | VALUE 24 TV | 102 programmi
 NO  Virgin.Radio.it | Virgin Radio | 172 programmi
 SI  cielo.it | cielo | 44 programmi
 
