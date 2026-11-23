@@ -1,0 +1,510 @@
+Guida: 251 canali con programmi nella finestra; scelti: 70
+
+== Canali della GUIDA (con programmi) e se agganciati ==
+SI  123.tv.de | 123.tv | 39 programmi
+NO  13th.Street.Universal.de | 13th Street Universal | 52 programmi
+NO  3+.de | 3+ | 28 programmi
+SI  3sat.de | 3sat | 61 programmi
+SI  ANIXE.de | ANIXE | 63 programmi
+SI  ARD.alpha.de | ARD alpha | 73 programmi
+SI  ARTE.de | ARTE | 43 programmi
+NO  ATV.II.de | ATV II | 43 programmi
+NO  ATV.de | ATV | 48 programmi
+SI  AXN.Black.de | AXN Black | 49 programmi
+SI  AXN.White.de | AXN White | 48 programmi
+NO  Adult.Channel.de | Adult Channel | 25 programmi
+NO  Al.Jazeera.de | Al Jazeera | 59 programmi
+NO  Animal.Planet.de | Animal Planet | 52 programmi
+NO  Auto.Motor.Sport.de | Auto Motor Sport | 95 programmi
+NO  BBC.News.de | BBC News | 83 programmi
+NO  BBC.One.de | BBC One | 48 programmi
+NO  BBC.Two.de | BBC Two | 44 programmi
+NO  BBC.World.News.de | BBC World News | 99 programmi
+NO  BBC.four.de | BBC four | 15 programmi
+NO  BR.de | BR | 60 programmi
+NO  Beate-Uhse.TV.de | Beate-Uhse.TV | 16 programmi
+NO  Belgien.1.de | Belgien 1 | 73 programmi
+NO  Bergblick.de | Bergblick | 52 programmi
+SI  Bibel.TV.de | Bibel TV | 89 programmi
+NO  Bloomberg.Europe.TV.de | Bloomberg Europe TV | 26 programmi
+NO  Bon.Gusto.de | Bon Gusto | 76 programmi
+NO  CNBC.de | CNBC | 73 programmi
+NO  CNN.International.de | CNN International | 49 programmi
+NO  CNN.Türk.de | CNN Türk | 15 programmi
+NO  CRIME.+.INVESTIGATION.de | CRIME + INVESTIGATION | 49 programmi
+NO  Canal+.Cinéma.de | Canal+ Cinéma | 29 programmi
+NO  Canal+.Sport.de | Canal+ Sport | 29 programmi
+NO  Canal+.de | Canal+ | 43 programmi
+NO  Canale.5.de | Canale 5 | 47 programmi
+NO  Cartoon.Network.de | Cartoon Network | 176 programmi
+NO  Cartoonito.de | Cartoonito | 188 programmi
+NO  Classica.de | Classica | 41 programmi
+SI  Comedy.Central.de | Comedy Central | 96 programmi
+SI  Curiosity.Channel.de | Curiosity Channel | 54 programmi
+NO  DAZN.1.de | DAZN 1 | 27 programmi
+NO  DAZN.2.de | DAZN 2 | 23 programmi
+NO  DAZN.de | DAZN | 14 programmi
+SI  DELUXE.MUSIC.de | DELUXE MUSIC | 23 programmi
+NO  DF1.de | DF1 | 42 programmi
+NO  DFB.Play.de | DFB Play | 25 programmi
+SI  DMAX.de | DMAX | 41 programmi
+SI  DMF.de | DMF | 28 programmi
+SI  DOKUSAT.de | DOKUSAT | 26 programmi
+NO  DR1.de | DR1 | 57 programmi
+NO  DR2.de | DR2 | 35 programmi
+SI  Das.Erste.de | Das Erste | 62 programmi
+NO  Discovery.HD.de | Discovery HD | 53 programmi
+SI  Disney.Channel.de | Disney Channel | 87 programmi
+SI  Dokusat.de | Dokusat | 26 programmi
+NO  EXTREME.SPORTS.de | EXTREME SPORTS | 45 programmi
+NO  Euro.D.de | Euro D | 19 programmi
+NO  Euro.Star.de | Euro Star | 16 programmi
+NO  Eurosport.1.de | Eurosport 1 | 33 programmi
+NO  Eurosport.2.de | Eurosport 2 | 37 programmi
+NO  Fashion.TV.de | Fashion TV | 77 programmi
+NO  Fix.&.Foxi.de | Fix & Foxi | 106 programmi
+NO  France.2.de | France 2 | 62 programmi
+NO  France.24.(engl.).de | France 24 (engl.) | 193 programmi
+NO  France.24.(franz.).de | France 24 (franz.) | 164 programmi
+NO  France.3.de | France 3 | 73 programmi
+NO  France.4.de | France 4 | 155 programmi
+NO  France.5.de | France 5 | 86 programmi
+NO  GEO.Television.de | GEO Television | 37 programmi
+NO  Goldstar.TV.de | Goldstar TV | 38 programmi
+NO  Gute.Laune.TV.de | Gute Laune TV | 17 programmi
+SI  HR.de | HR | 67 programmi
+SI  HSE.Extra.de | HSE Extra | 39 programmi
+SI  HSE.de | HSE | 39 programmi
+SI  Hamburg.1.de | Hamburg 1 | 79 programmi
+NO  Heimatkanal.de | Heimatkanal | 36 programmi
+NO  Home.&.Garden.TV.de | Home & Garden TV | 60 programmi
+NO  Jukebox.de | Jukebox | 14 programmi
+NO  K-TV.de | K-TV | 66 programmi
+SI  KIKA.de | KIKA | 81 programmi
+NO  Kanal.7.Int.de | Kanal 7 Int | 20 programmi
+NO  KinoweltTV.de | KinoweltTV | 23 programmi
+NO  LEIPZIG.FERNSEHEN.de | LEIPZIG FERNSEHEN | 87 programmi
+NO  LUST.PUR.de | LUST PUR | 16 programmi
+NO  MDR.de | MDR | 63 programmi
+NO  MS.Sport.de | MS Sport | 13 programmi
+SI  MTV.de | MTV | 53 programmi
+NO  Marco.Polo.TV.de | Marco Polo TV | 79 programmi
+NO  Mezzo.de | Mezzo | 37 programmi
+SI  More.than.Sports.TV.de | More than Sports TV | 29 programmi
+SI  Motorvision+.de | Motorvision+ | 70 programmi
+SI  Motorvision.TV.de | Motorvision TV | 70 programmi
+SI  N24.DOKU.de | N24 DOKU | 44 programmi
+NO  NAT.GEO.WILD.de | NAT GEO WILD | 50 programmi
+NO  NDR.de | NDR | 72 programmi
+NO  NHK.World.TV.de | NHK World TV | 137 programmi
+SI  NITRO.de | NITRO | 55 programmi
+NO  NOW.US.de | NOW US | 10 programmi
+NO  Nat.Geo.HD.de | Nat Geo HD | 51 programmi
+NO  Nautical.Channel.de | Nautical Channel | 73 programmi
+SI  Nick.Jr..de | Nick Jr. | 141 programmi
+SI  Nicktoons.de | Nicktoons | 119 programmi
+SI  ONE.de | ONE | 44 programmi
+NO  ORF.1.de | ORF 1 | 72 programmi
+NO  ORF.2.de | ORF 2 | 87 programmi
+NO  ORF.III.de | ORF III | 47 programmi
+NO  ORF.SPORT.+.de | ORF SPORT + | 45 programmi
+SI  PHOENIX.de | PHOENIX | 36 programmi
+NO  PULS.4.de | PULS 4 | 46 programmi
+NO  PULS.acht.de | PULS acht | 44 programmi
+NO  Playboy.TV.de | Playboy TV | 104 programmi
+SI  ProSieben.Fun.de | ProSieben Fun | 90 programmi
+SI  ProSieben.MAXX.de | ProSieben MAXX | 84 programmi
+SI  ProSieben.de | ProSieben | 63 programmi
+SI  QVC.de | QVC | 39 programmi
+NO  QVC2.de | QVC2 | 39 programmi
+NO  RBB.de | RBB | 52 programmi
+SI  RTL.Crime.de | RTL Crime | 51 programmi
+SI  RTL.Living.de | RTL Living | 49 programmi
+SI  RTL.Passion.de | RTL Passion | 70 programmi
+SI  RTL.de | RTL | 42 programmi
+SI  RTLZWEI.de | RTLZWEI | 37 programmi
+SI  RTLup.de | RTLup | 46 programmi
+SI  RiC.de | RiC | 56 programmi
+NO  Rocket.Beans.TV.de | Rocket Beans TV | 17 programmi
+NO  Romance.TV.de | Romance TV | 35 programmi
+SI  SAT.1.Gold.de | SAT.1 Gold | 48 programmi
+NO  SAT.1.de | SAT.1 | 40 programmi
+NO  SAT.1.emotions.de | SAT.1 emotions | 54 programmi
+SI  SPORT1+.de | SPORT1+ | 25 programmi
+SI  SPORT1.de | SPORT1 | 38 programmi
+SI  SRF.1.de | SRF 1 | 73 programmi
+SI  SRF.zwei.de | SRF zwei | 45 programmi
+NO  STAR.TV.de | STAR TV | 23 programmi
+NO  SUPER.RTL.de | SUPER RTL | 99 programmi
+NO  SWR/SR.de | SWR/SR | 61 programmi
+NO  Servus.TV.Österreich.de | Servus TV Österreich | 56 programmi
+NO  Show.Turk.de | Show Turk | 15 programmi
+NO  Silverline.de | Silverline | 24 programmi
+NO  Sky.Atlantic.HD.de | Sky Atlantic HD | 41 programmi
+NO  Sky.Cinema.Action.HD.de | Sky Cinema Action HD | 23 programmi
+NO  Sky.Cinema.Classics.HD.de | Sky Cinema Classics HD | 21 programmi
+NO  Sky.Cinema.Family.HD.de | Sky Cinema Family HD | 24 programmi
+NO  Sky.Cinema.Highlights.HD.de | Sky Cinema Highlights HD | 20 programmi
+NO  Sky.Cinema.Premiere.HD.de | Sky Cinema Premiere HD | 22 programmi
+NO  Sky.Crime.de | Sky Crime | 47 programmi
+NO  Sky.Documentaries.de | Sky Documentaries | 43 programmi
+NO  Sky.Krimi.de | Sky Krimi | 42 programmi
+NO  Sky.Nature.de | Sky Nature | 51 programmi
+NO  Sky.One.de | Sky One | 51 programmi
+NO  Sky.Replay.HD.de | Sky Replay HD | 11 programmi
+NO  Sky.Showcase.HD.de | Sky Showcase HD | 46 programmi
+NO  Sky.Sport.1.de | Sky Sport 1 | 6 programmi
+NO  Sky.Sport.10.de | Sky Sport 10 | 11 programmi
+NO  Sky.Sport.2.de | Sky Sport 2 | 11 programmi
+NO  Sky.Sport.3.de | Sky Sport 3 | 6 programmi
+NO  Sky.Sport.4.de | Sky Sport 4 | 12 programmi
+NO  Sky.Sport.5.de | Sky Sport 5 | 11 programmi
+NO  Sky.Sport.6.de | Sky Sport 6 | 11 programmi
+NO  Sky.Sport.7.de | Sky Sport 7 | 11 programmi
+NO  Sky.Sport.8.de | Sky Sport 8 | 11 programmi
+NO  Sky.Sport.9.de | Sky Sport 9 | 11 programmi
+NO  Sky.Sport.Austria.1.HD.de | Sky Sport Austria 1 HD | 48 programmi
+NO  Sky.Sport.Austria.2.HD.de | Sky Sport Austria 2 HD | 10 programmi
+NO  Sky.Sport.Austria.3.HD.de | Sky Sport Austria 3 HD | 9 programmi
+NO  Sky.Sport.Austria.4.HD.de | Sky Sport Austria 4 HD | 7 programmi
+NO  Sky.Sport.Austria.5.HD.de | Sky Sport Austria 5 HD | 12 programmi
+NO  Sky.Sport.Austria.6.HD.de | Sky Sport Austria 6 HD | 12 programmi
+NO  Sky.Sport.Austria.7.HD.de | Sky Sport Austria 7 HD | 12 programmi
+NO  Sky.Sport.Austria.de | Sky Sport Austria | 48 programmi
+NO  Sky.Sport.Bundesliga.1.de | Sky Sport Bundesliga 1 | 6 programmi
+NO  Sky.Sport.Bundesliga.10.de | Sky Sport Bundesliga 10 | 11 programmi
+NO  Sky.Sport.Bundesliga.2.de | Sky Sport Bundesliga 2 | 7 programmi
+NO  Sky.Sport.Bundesliga.3.de | Sky Sport Bundesliga 3 | 11 programmi
+NO  Sky.Sport.Bundesliga.4.de | Sky Sport Bundesliga 4 | 11 programmi
+NO  Sky.Sport.Bundesliga.5.de | Sky Sport Bundesliga 5 | 11 programmi
+NO  Sky.Sport.Bundesliga.6.de | Sky Sport Bundesliga 6 | 11 programmi
+NO  Sky.Sport.Bundesliga.7.de | Sky Sport Bundesliga 7 | 11 programmi
+NO  Sky.Sport.Bundesliga.8.de | Sky Sport Bundesliga 8 | 11 programmi
+NO  Sky.Sport.Bundesliga.9.de | Sky Sport Bundesliga 9 | 11 programmi
+NO  Sky.Sport.Bundesliga.UHD.de | Sky Sport Bundesliga UHD | 16 programmi
+NO  Sky.Sport.Bundesliga.de | Sky Sport Bundesliga | 41 programmi
+SI  Sky.Sport.F1.de | Sky Sport F1 | 29 programmi
+SI  Sky.Sport.Golf.de | Sky Sport Golf | 25 programmi
+SI  Sky.Sport.Mix.de | Sky Sport Mix | 38 programmi
+SI  Sky.Sport.News.de | Sky Sport News | 34 programmi
+NO  Sky.Sport.Premier.League.de | Sky Sport Premier League | 76 programmi
+SI  Sky.Sport.Tennis.de | Sky Sport Tennis | 23 programmi
+SI  Sky.Sport.Top.Event.de | Sky Sport Top Event | 37 programmi
+NO  Sky.Sport.UHD.de | Sky Sport UHD | 17 programmi
+SI  Sonnenklar.TV.de | Sonnenklar.TV | 60 programmi
+NO  Spiegel.Geschichte.de | Spiegel Geschichte | 67 programmi
+NO  Sport.1.-.myTeamTV.de | Sport 1 - myTeamTV | 13 programmi
+NO  Sport.10.-.myTeamTV.de | Sport 10 - myTeamTV | 13 programmi
+NO  Sport.11.-.myTeamTV.de | Sport 11 - myTeamTV | 13 programmi
+NO  Sport.12.-.myTeamTV.de | Sport 12 - myTeamTV | 13 programmi
+NO  Sport.13.-.myTeamTV.de | Sport 13 - myTeamTV | 13 programmi
+NO  Sport.14.-.myTeamTV.de | Sport 14 - myTeamTV | 13 programmi
+NO  Sport.15.-.myTeamTV.de | Sport 15 - myTeamTV | 13 programmi
+NO  Sport.16.-.myTeamTV.de | Sport 16 - myTeamTV | 13 programmi
+NO  Sport.17.-.myTeamTV.de | Sport 17 - myTeamTV | 13 programmi
+NO  Sport.18.-.myTeamTV.de | Sport 18 - myTeamTV | 13 programmi
+NO  Sport.2.-.myTeamTV.de | Sport 2 - myTeamTV | 13 programmi
+NO  Sport.3.-.myTeamTV.de | Sport 3 - myTeamTV | 13 programmi
+NO  Sport.4.-.myTeamTV.de | Sport 4 - myTeamTV | 13 programmi
+NO  Sport.5.-.myTeamTV.de | Sport 5 - myTeamTV | 13 programmi
+NO  Sport.6.-.myTeamTV.de | Sport 6 - myTeamTV | 13 programmi
+NO  Sport.7.-.myTeamTV.de | Sport 7 - myTeamTV | 13 programmi
+NO  Sport.8.-.myTeamTV.de | Sport 8 - myTeamTV | 13 programmi
+NO  Sport.9.-.myTeamTV.de | Sport 9 - myTeamTV | 15 programmi
+NO  SportDigital1+.de | SportDigital1+ | 25 programmi
+NO  SyFy.de | SyFy | 46 programmi
+SI  TLC.de | TLC | 52 programmi
+NO  TOGGO.plus.de | TOGGO plus | 109 programmi
+NO  TV2.de | TV2 | 53 programmi
+NO  TV5.Monde.de | TV5 Monde | 98 programmi
+SI  Tele.5.de | Tele 5 | 31 programmi
+NO  The.HISTORY.Channel.de | The HISTORY Channel | 48 programmi
+NO  Top.Serien.de | Top Serien | 60 programmi
+NO  Trace.TV.de | Trace TV | 19 programmi
+NO  Turkmax.Gurme.de | Turkmax Gurme | 52 programmi
+NO  UHD1.de | UHD1 | 27 programmi
+NO  Universal.Channel.HD.de | Universal Channel HD | 27 programmi
+SI  VOX.de | VOX | 42 programmi
+SI  VOXup.de | VOXup | 40 programmi
+SI  WDR.de | WDR | 59 programmi
+SI  WELT.de | WELT | 126 programmi
+NO  Warner.TV.Comedy.de | Warner TV Comedy | 94 programmi
+NO  Warner.TV.Film.de | Warner TV Film | 21 programmi
+NO  Warner.TV.Serie.de | Warner TV Serie | 48 programmi
+SI  Welt.der.Wunder.TV.de | Welt der Wunder TV | 34 programmi
+SI  ZDF.de | ZDF | 51 programmi
+SI  ZDFinfo.de | ZDFinfo | 55 programmi
+SI  ZDFneo.de | ZDFneo | 47 programmi
+NO  eSports1.de | eSports1 | 7 programmi
+NO  eSportsONE.de | eSportsONE | 7 programmi
+NO  euronews.(ger).de | euronews (ger) | 154 programmi
+SI  kabel.eins.Doku.de | kabel eins Doku | 52 programmi
+NO  kabel.eins.classics.de | kabel eins classics | 26 programmi
+SI  kabel.eins.de | kabel eins | 38 programmi
+NO  münchen.tv.de | münchen.tv | 110 programmi
+NO  nick.de | nick | 77 programmi
+SI  ntv.de | ntv | 96 programmi
+NO  oe24.TV.de | oe24.TV | 44 programmi
+SI  sixx.de | sixx | 51 programmi
+NO  sky.showcase.de | sky showcase | 46 programmi
+NO  sportdigital.Fussball.de | sportdigital Fussball | 29 programmi
+SI  tagesschau24.de | tagesschau24 | 43 programmi
+NO  travelxp.4K.de | travelxp 4K | 77 programmi
+NO  tv-media.PULS.24.de | PULS 24 | 1 programmi
+NO  tv.berlin.de | tv.berlin | 48 programmi
+
+== Canali delle PLAYLIST senza guida (per nome) ==
+90210
+ANIMAL KINGDOM (720p)
+Adria Music Television
+Adventure Earth (1080p)
+Alex Berlin (1080p)
+Alle hassen Chris
+Allgau TV (1080p)
+Altenburg TV (1080p)
+Anixe HD Serie (360p)
+Aristo TV (360p)
+Auction Hunters (Germany)
+Augsburg TV (1080p)
+Autentic History (1080p)
+Autentic Travel (1080p)
+Awkward (Germany)
+BBC Travel
+BIG BROTHER CLASSIC
+BLK Regional TV (1080p)
+BR Fernsehen (720p)
+BR Fernsehen Sud (1080p)
+BR Nord Ⓖ
+BR Süd Ⓖ
+BTL TV (Netherlands) (1080p)
+Baden TV (1080p) [Not 24/7]
+Becker (Germany)
+Bibel TV Impuls (720p)
+Bibel TV Musik (720p)
+CC Pluto TV
+Cartoon Network CEE Germany
+Chaos City
+Cira TV (1080p)
+DASDING 90.8 (720p)
+DAZN 1 Germany
+DAZN 2 Germany
+DAZN Darts x Pluto TV
+DAZN Heldinnen x Pluto TV
+DELUXE MUSIC DANCE BY KONTOR
+DELUXE MUSIC RAP
+DW Russian (1080p)
+Deluxe Dance (1080p)
+Deluxe Lounge (720p)
+Deluxe Rap (1080p)
+Die Neue Zeit TV (576p)
+Drake & Josh
+EWTN (Germany) (720p)
+EchtJetzt TV (720p)
+Erz-TV Stollberg (576p)
+Euronews Deutsch Ⓨ
+Eurosport 1 Germany
+Eurosport 2 Germany
+FIFA+ German (720p)
+Filstalwelle (1080p)
+Finest TV (288p) [Not 24/7]
+Folx Music Television
+Franken Fernsehen (1080p) [Not 24/7]
+Frasier: Beruhmte Gaste
+Germany Shore
+Grjngo Western Movies (720p)
+HSE Trend (576p)
+Handystar (404p) [Not 24/7]
+Hope Channel German (1080p)
+Horse & Country TV (1080p)
+Ice Pilots
+Juwelo (Germany) (720p)
+Kanal12 Spremberg TV (404p) [Not 24/7]
+KaufBei TV (720p)
+KulturMD (1080p)
+Lausitzwelle (1080p)
+Light Channel (Germany) (576p) [Not 24/7]
+Love The Planet DE (1080p) [Geo-blocked]
+MC TV (720p)
+MDF.1 (1080p)
+MDR Fernsehen (1080p) [Geo-blocked]
+MDR Fernsehen Sachsen Anhalt (1080p) [Geo-blocked]
+MDR Fernsehen Thuringen
+MDR Sachsen Ⓖ
+MDR Sachsen-Anhalt Ⓖ
+MDR Thüringen Ⓖ
+MagentaMusik 360 (1080p)
+McLeods Tochter
+Moviedome (720p)
+Munchen TV (1080p) [Not 24/7]
+NDR Fernsehen (720p)
+NDR Fernsehen Mecklenburg Vorpommern (720p)
+NDR Fernsehen Niedersachsen (720p)
+NDR Fernsehen Schleswig Holstein (720p)
+NDR Hamburg Ⓖ
+NDR International
+NDR Mecklenburg-Vorpommern Ⓖ
+NDR Niedersachsen Ⓖ
+NDR Schleswig-Holstein Ⓖ
+NRWision (1080p)
+Nachrichten 360 (1080p) [Geo-blocked]
+Naruto Germany (720p)
+Nick Jr. Club (Germany) (720p)
+Nick/Comedy Central +1
+Nickelodeon (Germany)
+Nickelodeon Classics (720p)
+Niederbayern TV (720p)
+Niederbayern TV Deggendorf & Straubing (1080p)
+Niederbayern TV Landshut (1080p)
+Niederbayern TV Passau (1080p)
+OF-TV Offenbach (720p)
+OK Dessau (1080p) [Not 24/7]
+OK Flensburg (576p)
+OK Kaiserslautern (720p) [Geo-blocked]
+OK Kassel (720p) [Geo-blocked]
+OK Kiel (576p)
+OK Magdeburg (1080p)
+OK Merseburg-Querfurt (1080p) [Not 24/7]
+OK Rhein-Main (576p) [Geo-blocked]
+OK Salzwedel (1080p) [Not 24/7]
+OK Stendal (1080p)
+OK Trier (720p) [Geo-blocked]
+OK Weinstrasse Neustadt (432p) [Geo-blocked]
+OK Wernigerode (1080p)
+OK-TV Ludwigshafen (720p) [Geo-blocked]
+OK4 (720p) [Geo-blocked]
+OK54 (720p) [Geo-blocked]
+Oberpfalz TV (1080p)
+One Adria
+One Music Television
+Ost West 24 (1080p)
+PUNKTum Fernsehen (1080p) [Not 24/7]
+Parlamentsfernsehen 1 (1080p) [Not 24/7]
+Parlamentsfernsehen 2 (1080p) [Not 24/7]
+Parlamentsfernsehen 3 (1080p) [Not 24/7]
+Parlamentsfernsehen 4 (1080p) [Not 24/7]
+Pluto TV Adult Animation
+Pluto TV Animals
+Pluto TV Britische Serien
+Pluto TV Bud & Terence (Germany)
+Pluto TV Comedy Therapie
+Pluto TV Crime
+Pluto TV Deutsche Comedy
+Pluto TV Explore
+Pluto TV Ferne Galaxien
+Pluto TV Food
+Pluto TV Fran: Beste Mama-Momente
+Pluto TV Haialarm
+Pluto TV Historische Serien
+Pluto TV Horror-Serien
+Pluto TV Kult Comedies
+Pluto TV Kultfilme
+Pluto TV Laughs in Spanish
+Pluto TV Movies
+Pluto TV Mystery
+Pluto TV Nature
+Pluto TV Nordic Crime
+Pluto TV Polizeiserien
+Pluto TV Reportagen
+Pluto TV Serie
+Pluto TV Sitcoms
+Pluto TV Space (Germany)
+Pluto TV Star Trek (Germany)
+Pluto TV Star Trek: Animation
+Pluto TV Weihnachten im Sommer
+Pluto TV Western
+Pluto TV Western Serien
+Pluto TV Worst of Bundy
+QVC Style (Germany) (540p)
+QVC Zwei (540p)
+RAN1 (1080p)
+RBB Berlin Ⓖ
+RBB Brandenburg Ⓖ
+RBW (1080p)
+RFH (1080p)
+RFO (1080p)
+RT DE (1080p) [Not 24/7]
+RTL Super
+Radio 21 TV (720p)
+Radio Bremen Fernsehen (1080p) [Geo-blocked]
+Radio Bremen Ⓖ
+Radio Weser TV Bremen (576p)
+Rakuten TV Action Movies Germany (1080p)
+Rakuten TV Comedy Movies Germany (1080p)
+Rakuten TV Drama Movies Germany (1080p)
+Rakuten TV Family Movies Germany (1080p)
+Rakuten TV Top Movies Germany (1080p)
+Red Bull TV DE (1080p)
+Regio TV Bodensee (1080p)
+Regio TV Stuttgart (1080p)
+RiC.today
+Rock Antenne [Not 24/7]
+Rockland TV (480p) [Not 24/7]
+SCHLAGER DELUXE
+SR Fernsehen (720p)
+SR Ⓖ
+SWR 3 Visual Radio (720p)
+SWR Baden-Württemberg Ⓖ
+SWR Fernsehen Baden-Wurttemberg (720p) [Geo-blocked]
+SWR Fernsehen HD
+SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
+SWR Rheinland-Pfalz Ⓖ
+Saarland Fernsehen 1 (1080p)
+Saarland Fernsehen 2 (720p) [Not 24/7]
+Sabrina: Total verhext!
+Sachsen Eins (1080p)
+Sachsen Fernsehen Chemnitz (1080p)
+Sachsen Fernsehen Dresden (1080p) [Not 24/7]
+Sachsen Fernsehen Leipzig (1080p)
+Salve TV (720p)
+Seenluft24 (1080p)
+Sender Neu Jerusalem (576p)
+Sonus FM (1080p) [Not 24/7]
+Sophia TV (Germany) (720p)
+Sophia TV Espanol (720p)
+Sophia TV Francais (720p)
+South Park: Butters Collection (Germany)
+South Park: Original Version
+SpongeBob Schwammkopf (720p)
+Star Trek: The Original Series (Germany)
+Strongman (720p)
+TNT International (480p)
+TV Ingolstadt (1080p)
+TV Mainfranken (1080p) [Not 24/7]
+TV Oberfranken (1080p) [Not 24/7]
+TV38 Sudost-Niedersachen (1080p)
+TVA (Germany) (1080p) [Not 24/7]
+TVRUS
+Takeshi's Castle
+Terra Mater WILD (1080p)
+The Graham Norton Show (1080p)
+The L Word – Wenn Frauen lieben
+Tide TV (1080p)
+Unserding (720p) [Geo-blocked]
+Volksmusik TV (1080p)
+WDR 1 Live (720p)
+WDR Fernsehen (720p)
+WDR Fernsehen Aachen (720p) [Geo-blocked]
+WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+WDR Fernsehen Bonn (720p) [Geo-blocked]
+WDR Fernsehen Dortmund (720p) [Geo-blocked]
+WDR Fernsehen Duisburg (720p) [Geo-blocked]
+WDR Fernsehen Dusseldorf (720p) [Geo-blocked]
+WDR Fernsehen Essen (720p) [Geo-blocked]
+WDR Fernsehen Munster (720p) [Geo-blocked]
+WDR Fernsehen Siegen (720p) [Geo-blocked]
+WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+World Poker Tour Germany
+World of Freesports (1080p)
+XITE Hits Germany (1080p)
+YOL TV (720p)
+Zee One German (720p)
+Zwei Music Television
+hr-fernsehen (1080p)
+iSTUFF (720p) [Not 24/7]
+labor14 (720p)
+noa4 Hamburg (1080p)
+noa4 Norderstedt (1080p)
+rbb Fernsehen
+rbb Fernsehen Berlin (1080p) [Geo-blocked]
+rbb Fernsehen Brandenburg (1080p) [Geo-blocked]
+teltOwkanal (1080p)
