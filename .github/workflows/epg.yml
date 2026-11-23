@@ -1,12 +1,17 @@
-name: Aggiorna guida TV
+name: Aggiorna guida
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
-  workflow_dispatch:
+    - cron: "17 */6 * * *"   # ogni 6 ore
+  workflow_dispatch:          # pulsante "Run workflow"
 
 permissions:
   contents: write
+
+# una sola esecuzione alla volta: evita due commit in gara tra loro
+concurrency:
+  group: aggiorna-guida
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -14,12 +19,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Costruisci la guida
-        run: python3 build_epg.py
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-      - name: Salva i file aggiornati
+      - name: Genera la guida
+        run: python build_epg.py
+
+      - name: Pubblica le modifiche
         run: |
           git config user.name "epg-bot"
           git config user.email "epg-bot@users.noreply.github.com"
-          git add epg
-          git diff --cached --quiet || (git commit -m "Aggiorna guida" && git push)
+          git add -A epg
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da pubblicare"
+            exit 0
+          fi
+          git commit -m "Aggiorna guida"
+          # se nel frattempo qualcuno ha pubblicato altro, mi riallineo e riprovo
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Push non riuscito dopo 3 tentativi"
+          exit 1
