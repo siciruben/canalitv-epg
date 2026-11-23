@@ -10,7 +10,7 @@ Scrive:
   epg/<paese>.idx.json    {"v":3,"t":<epoch>,"i":{idGuida:file},"m":{chiaveNome:file}}
                            indice piccolo: dice a quale file andare per un canale
   epg/<paese>/<file>.json {"p":[[inizio,fine,"Titolo"],...]}   un file per canale
-  epg/diagnosi.txt        quali canali sono coperti e quali no
+  epg/diagnosi-<paese>.txt  quali canali sono coperti e quali no
 
 Gli orari sono secondi Unix (UTC). Nessuna dipendenza esterna: basta Python 3.
 """
@@ -25,20 +25,16 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
+FREE = "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_%s.m3u8"
+IPTV = "https://iptv-org.github.io/iptv/countries/%s.m3u"
+EPGS = "https://epgshare01.online/epgshare01/epg_ripper_%s.xml.gz"
+
+# Le playlist sono le stesse dell'app. Se un indirizzo non esiste viene saltato (nessun errore).
 PAESI = {
-    "it": {
-        "epg": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
-        "playlist": [
-            "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_italy.m3u8",
-            "https://iptv-org.github.io/iptv/countries/it.m3u",
-        ],
-    },
-    # "uk": {"epg": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-    #        "playlist": ["https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_uk.m3u8",
-    #                     "https://iptv-org.github.io/iptv/countries/uk.m3u"]},
-    # "de": {"epg": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
-    #        "playlist": ["https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_germany.m3u8",
-    #                     "https://iptv-org.github.io/iptv/countries/de.m3u"]},
+    "it": {"epg": EPGS % "IT1", "playlist": [FREE % "italy", IPTV % "it"]},
+    "uk": {"epg": EPGS % "UK1", "playlist": [FREE % "uk", FREE % "united_kingdom", IPTV % "uk", IPTV % "gb"]},
+    "us": {"epg": EPGS % "US1", "playlist": [FREE % "usa", FREE % "us", FREE % "united_states", IPTV % "us"]},
+    "de": {"epg": EPGS % "DE1", "playlist": [FREE % "germany", FREE % "de", IPTV % "de"]},
 }
 
 PASSATO = 2 * 3600
@@ -127,15 +123,15 @@ def costruisci(codice, cfg, adesso=None):
             print(f"[{codice}] playlist non letta: {u} ({e})")
     print(f"[{codice}] playlist: {len(pl_ids)} id, {len(pl_nomi)} nomi")
 
-    xml = gzip.decompress(scarica(cfg["epg"]))
-    print(f"[{codice}] guida scaricata: {len(xml) / 1e6:.1f} MB non compressi")
+    dati = scarica(cfg["epg"])
+    print(f"[{codice}] guida scaricata: {len(dati) / 1e6:.1f} MB compressi")
 
     ora = int(adesso or time.time())
     da, a = ora - PASSATO, ora + FUTURO
     alias = {}   # id guida -> insieme di chiavi dai display-name
     nomi_g = {}  # id guida -> primo display-name
     prog = {}
-    for _, el in ET.iterparse(io.BytesIO(xml), events=("end",)):
+    for _, el in ET.iterparse(gzip.GzipFile(fileobj=io.BytesIO(dati)), events=("end",)):
         if el.tag == "channel":
             cid = el.get("id")
             for d in el.findall("display-name"):
@@ -179,7 +175,7 @@ def costruisci(codice, cfg, adesso=None):
     righe += ["", "== Canali delle PLAYLIST senza guida (per nome) =="]
     righe += sorted(v for k, v in pl_nomi.items() if k not in mappa)
     os.makedirs("epg", exist_ok=True)
-    with open(os.path.join("epg", "diagnosi.txt"), "w", encoding="utf-8") as f:
+    with open(os.path.join("epg", f"diagnosi-{codice}.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(righe) + "\n")
     print(f"[{codice}] canali della guida con programmi: {len(prog)}; agganciati alle playlist: {len(scelti)}")
 
