@@ -33,7 +33,7 @@ EPGS = "https://epgshare01.online/epgshare01/epg_ripper_%s.xml.gz"
 PAESI = {
     "it": {"epg": EPGS % "IT1", "playlist": [FREE % "italy", IPTV % "it"]},
     "uk": {"epg": EPGS % "UK1", "playlist": [FREE % "uk", FREE % "united_kingdom", IPTV % "uk", IPTV % "gb"]},
-    "us": {"epg": EPGS % "US1", "playlist": [FREE % "usa", FREE % "us", FREE % "united_states", IPTV % "us"]},
+    "us": {"epg": [EPGS % "US2", EPGS % "US1", EPGS % "US_SPORTS1", EPGS % "US_LOCALS1"], "playlist": [FREE % "usa", FREE % "us", FREE % "united_states", IPTV % "us"]},
     "de": {"epg": EPGS % "DE1", "playlist": [FREE % "germany", FREE % "de", IPTV % "de"]},
 }
 
@@ -123,36 +123,51 @@ def costruisci(codice, cfg, adesso=None):
             print(f"[{codice}] playlist non letta: {u} ({e})")
     print(f"[{codice}] playlist: {len(pl_ids)} id, {len(pl_nomi)} nomi")
 
-    dati = scarica(cfg["epg"])
-    print(f"[{codice}] guida scaricata: {len(dati) / 1e6:.1f} MB compressi")
-
+    # "epg" puo' essere un indirizzo o un elenco: li provo tutti, salto quelli che non esistono e unisco gli altri.
+    # Per ogni canale vale la prima guida (in ordine) che ha programmi nella finestra.
+    urls = cfg["epg"] if isinstance(cfg["epg"], (list, tuple)) else [cfg["epg"]]
     ora = int(adesso or time.time())
     da, a = ora - PASSATO, ora + FUTURO
     alias = {}   # id guida -> insieme di chiavi dai display-name
     nomi_g = {}  # id guida -> primo display-name
     prog = {}
-    for _, el in ET.iterparse(gzip.GzipFile(fileobj=io.BytesIO(dati)), events=("end",)):
-        if el.tag == "channel":
-            cid = el.get("id")
-            for d in el.findall("display-name"):
-                if d.text:
-                    nomi_g.setdefault(cid, d.text.strip())
-                    k = chiave(d.text)
-                    if k:
-                        alias.setdefault(cid, set()).add(k)
-        elif el.tag == "programme":
-            cid = el.get("channel")
-            try:
-                s, e = epoch(el.get("start")), epoch(el.get("stop"))
-            except Exception:
-                s = e = 0
-            if cid and e > da and s < a:
-                t = el.find("title")
-                titolo = (t.text or "").strip() if t is not None else ""
-                if titolo:
-                    prog.setdefault(cid, []).append([s, e, titolo])
-        if el.tag in ("channel", "programme"):  # svuoto solo dopo aver letto i figli (title, display-name)
-            el.clear()
+    fonte = {}   # id guida -> numero della guida che lo ha fornito
+    letti = 0
+    for n, url in enumerate(urls):
+        try:
+            dati = scarica(url)
+        except Exception as e:
+            print(f"[{codice}] guida non scaricata: {url} ({e})")
+            continue
+        letti += 1
+        print(f"[{codice}] guida scaricata: {url.rsplit('/', 1)[-1]} ({len(dati) / 1e6:.1f} MB compressi)")
+        try:
+            for _, el in ET.iterparse(gzip.GzipFile(fileobj=io.BytesIO(dati)), events=("end",)):
+                if el.tag == "channel":
+                    cid = el.get("id")
+                    for d in el.findall("display-name"):
+                        if d.text:
+                            nomi_g.setdefault(cid, d.text.strip())
+                            k = chiave(d.text)
+                            if k:
+                                alias.setdefault(cid, set()).add(k)
+                elif el.tag == "programme":
+                    cid = el.get("channel")
+                    try:
+                        s, e = epoch(el.get("start")), epoch(el.get("stop"))
+                    except Exception:
+                        s = e = 0
+                    if cid and e > da and s < a and fonte.setdefault(cid, n) == n:
+                        t = el.find("title")
+                        titolo = (t.text or "").strip() if t is not None else ""
+                        if titolo:
+                            prog.setdefault(cid, []).append([s, e, titolo])
+                if el.tag in ("channel", "programme"):  # svuoto solo dopo aver letto i figli (title, display-name)
+                    el.clear()
+        except Exception as e:
+            print(f"[{codice}] guida letta solo in parte: {url} ({e})")
+    if not letti:
+        raise RuntimeError(f"[{codice}] nessuna guida scaricabile")
 
     # scelgo i canali della guida che corrispondono a un canale delle playlist
     scelti, mappa = {}, {}
