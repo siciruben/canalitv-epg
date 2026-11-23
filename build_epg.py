@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""Guida TV leggera per Canali TV (versione 2: aggancio per id e per nome).
+"""Guida TV leggera per Canali TV (versione 3: aggancio per id e per nome + file per canale).
 
 Scarica la guida XMLTV di un paese, tiene i canali che corrispondono a quelli delle
 playlist usate dall'app (per id oppure per nome) e solo i programmi delle prossime ore.
 
 Scrive:
-  epg/<paese>.json   {"v":2,"t":<epoch>,"p":{idGuida:[[inizio,fine,"Titolo"],...]},
-                      "m":{chiaveNome:idGuida}}
-  epg/diagnosi.txt   quali canali sono coperti e quali no (per controllare la qualita')
+  epg/<paese>.json        {"v":2,"t":<epoch>,"p":{idGuida:[[inizio,fine,"Titolo"],...]},
+                           "m":{chiaveNome:idGuida}}   (tutto in un file, come prima)
+  epg/<paese>.idx.json    {"v":3,"t":<epoch>,"i":{idGuida:file},"m":{chiaveNome:file}}
+                           indice piccolo: dice a quale file andare per un canale
+  epg/<paese>/<file>.json {"p":[[inizio,fine,"Titolo"],...]}   un file per canale
+  epg/diagnosi.txt        quali canali sono coperti e quali no
 
 Gli orari sono secondi Unix (UTC). Nessuna dipendenza esterna: basta Python 3.
 """
@@ -86,6 +89,32 @@ def epoch(s):
     return int(dt.replace(tzinfo=tz).timestamp())
 
 
+def nome_file(cid):
+    """Nome di file sicuro per l'id di un canale della guida."""
+    return re.sub(r"[^A-Za-z0-9._-]", "_", cid)
+
+
+def scrivi_split(codice, scelti, mappa, ora):
+    """Un piccolo file per canale + un indice: la TV scarica solo quello che serve."""
+    cartella = os.path.join("epg", codice)
+    os.makedirs(cartella, exist_ok=True)
+    for vecchio in os.listdir(cartella):  # niente file di canali che non ci sono piu'
+        if vecchio.endswith(".json"):
+            os.remove(os.path.join(cartella, vecchio))
+    indice = {"v": 3, "t": ora, "i": {}, "m": {}}
+    for cid, lista in scelti.items():
+        f = nome_file(cid)
+        indice["i"][cid] = f
+        with open(os.path.join(cartella, f + ".json"), "w", encoding="utf-8") as fh:
+            json.dump({"p": lista}, fh, ensure_ascii=False, separators=(",", ":"))
+    for k, cid in mappa.items():
+        indice["m"][k] = nome_file(cid)
+    path = os.path.join("epg", codice + ".idx.json")
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(indice, fh, ensure_ascii=False, separators=(",", ":"))
+    print(f"[{codice}] scritti {len(scelti)} file per canale + indice ({os.path.getsize(path) / 1024:.0f} KB)")
+
+
 def costruisci(codice, cfg, adesso=None):
     pl_ids, pl_nomi = set(), {}
     for u in cfg["playlist"]:
@@ -126,6 +155,7 @@ def costruisci(codice, cfg, adesso=None):
                 titolo = (t.text or "").strip() if t is not None else ""
                 if titolo:
                     prog.setdefault(cid, []).append([s, e, titolo])
+        if el.tag in ("channel", "programme"):  # svuoto solo dopo aver letto i figli (title, display-name)
             el.clear()
 
     # scelgo i canali della guida che corrispondono a un canale delle playlist
@@ -145,15 +175,14 @@ def costruisci(codice, cfg, adesso=None):
     righe = [f"Guida: {len(prog)} canali con programmi nella finestra; scelti: {len(scelti)}", ""]
     righe.append("== Canali della GUIDA (con programmi) e se agganciati ==")
     for cid in sorted(prog):
-        righe.append(f"{'SI ' if cid in scelti else 'NO '} {cid}  |  {nomi_g.get(cid, '')}  |  {len(prog[cid])} programmi")
-    agganciate = set(mappa) | {chiave(c.split('.')[0]) for c in scelti if c in pl_ids}
+        righe.append(f"{'SI ' if cid in scelti else 'NO '} {cid} | {nomi_g.get(cid, '')} | {len(prog[cid])} programmi")
     righe += ["", "== Canali delle PLAYLIST senza guida (per nome) =="]
     righe += sorted(v for k, v in pl_nomi.items() if k not in mappa)
     os.makedirs("epg", exist_ok=True)
     with open(os.path.join("epg", "diagnosi.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(righe) + "\n")
-
     print(f"[{codice}] canali della guida con programmi: {len(prog)}; agganciati alle playlist: {len(scelti)}")
+
     if not scelti:
         raise RuntimeError(f"[{codice}] nessun canale agganciato: tengo il file precedente")
 
@@ -161,6 +190,8 @@ def costruisci(codice, cfg, adesso=None):
     with open(path, "w", encoding="utf-8") as f:
         json.dump({"v": 2, "t": ora, "p": scelti, "m": mappa}, f, ensure_ascii=False, separators=(",", ":"))
     print(f"[{codice}] scritto {path}: {os.path.getsize(path) / 1024:.0f} KB")
+
+    scrivi_split(codice, scelti, mappa, ora)
 
 
 def main():
