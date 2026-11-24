@@ -1,329 +1,329 @@
-Guida: 383 canali con programmi nella finestra; scelti: 77
+Guida: 383 canali con programmi nella finestra; scelti: 76
 
 == Canali della GUIDA (con programmi) e se agganciati ==
-NO  4seven.uk | 4seven | 38 programmi
-SI  5.USA.uk | 5 USA | 38 programmi
-NO  5ACTION.uk | 5ACTION | 46 programmi
-NO  5SELECT.uk | 5SELECT | 43 programmi
+NO  4seven.uk | 4seven | 42 programmi
+SI  5.USA.uk | 5 USA | 39 programmi
+NO  5ACTION.uk | 5ACTION | 47 programmi
+NO  5SELECT.uk | 5SELECT | 42 programmi
 NO  5STAR+1.uk | 5STAR+1 | 42 programmi
-NO  5STAR.uk | 5STAR | 42 programmi
+NO  5STAR.uk | 5STAR | 41 programmi
 NO  5USA+1.uk | 5USA+1 | 38 programmi
 SI  AAJ.TAK.uk | AAJ TAK | 77 programmi
-NO  ARY.Digital.uk | ARY Digital | 49 programmi
-NO  ATN.uk | ATN | 66 programmi
-NO  Aastha.uk | Aastha | 43 programmi
+NO  ARY.Digital.uk | ARY Digital | 53 programmi
+NO  ATN.uk | ATN | 68 programmi
+NO  Aastha.uk | Aastha | 38 programmi
 NO  Ahlebait.TV.uk | Ahlebait TV | 44 programmi
-SI  Akaal.Channel.uk | Akaal Channel | 40 programmi
-NO  Al.Jazeera.HD.uk | Al Jazeera HD | 61 programmi
-SI  Animal.Planet.uk | Animal Planet | 45 programmi
-NO  Animal.Plnt+1.uk | Animal Plnt+1 | 45 programmi
-NO  Arirang.TV.HD.uk | Arirang TV HD | 85 programmi
-NO  Arise.News.uk | Arise News | 32 programmi
+SI  Akaal.Channel.uk | Akaal Channel | 47 programmi
+NO  Al.Jazeera.HD.uk | Al Jazeera HD | 59 programmi
+SI  Animal.Planet.uk | Animal Planet | 42 programmi
+NO  Animal.Plnt+1.uk | Animal Plnt+1 | 43 programmi
+NO  Arirang.TV.HD.uk | Arirang TV HD | 88 programmi
+NO  Arise.News.uk | Arise News | 29 programmi
 NO  Ayozat.TV.uk | Ayozat TV | 40 programmi
 NO  B4U.Movies.uk | B4U Movies | 14 programmi
-NO  B4U.Music.uk | B4U Music | 54 programmi
-NO  BBC.6.Music.uk | BBC 6 Music | 24 programmi
-SI  BBC.ALBA.HD.uk | BBC ALBA HD | 28 programmi
+NO  B4U.Music.uk | B4U Music | 57 programmi
+NO  BBC.6.Music.uk | BBC 6 Music | 19 programmi
+SI  BBC.ALBA.HD.uk | BBC ALBA HD | 39 programmi
 NO  BBC.Asian.uk | BBC Asian | 30 programmi
-SI  BBC.Four.HD.uk | BBC Four HD | 23 programmi
-SI  BBC.NEWS.HD.uk | BBC NEWS HD | 84 programmi
-NO  BBC.One.CI.HD.uk | BBC One CI HD | 36 programmi
-NO  BBC.One.E.Mid.HD.uk | BBC One E Mid HD | 36 programmi
-SI  BBC.One.EastHD.uk | BBC One EastHD | 36 programmi
-NO  BBC.One.Lon.HD.uk | BBC One Lon HD | 36 programmi
-NO  BBC.One.N.West.HD.uk | BBC One N West HD | 36 programmi
-NO  BBC.One.NE.and.C.HD.uk | BBC One NE and C HD | 36 programmi
-NO  BBC.One.NI.HD.uk | BBC One NI HD | 35 programmi
-NO  BBC.One.S.East.HD.uk | BBC One S East HD | 36 programmi
-NO  BBC.One.S.West.HD.uk | BBC One S West HD | 36 programmi
-NO  BBC.One.ScotHD.uk | BBC One ScotHD | 39 programmi
-NO  BBC.One.Sth.HD.uk | BBC One Sth HD | 36 programmi
-NO  BBC.One.WM.HD.uk | BBC One WM HD | 36 programmi
-NO  BBC.One.Wal.HD.uk | BBC One Wal HD | 37 programmi
-SI  BBC.One.West.HD.uk | BBC One West HD | 36 programmi
-NO  BBC.One.Y.and.L.HD.uk | BBC One Y and L HD | 36 programmi
-NO  BBC.One.Yorks.HD.uk | BBC One Yorks HD | 36 programmi
-SI  BBC.Parliament.HD.uk | BBC Parliament HD | 24 programmi
-NO  BBC.R.Cymru.2.uk | BBC R Cymru 2 | 13 programmi
-NO  BBC.R.Cymru.uk | BBC R Cymru | 20 programmi
-NO  BBC.R.Foyle.uk | BBC R Foyle | 31 programmi
-NO  BBC.R.Scot..uk | BBC R Scot. | 16 programmi
-NO  BBC.R.Ulster.uk | BBC R Ulster | 26 programmi
-NO  BBC.R.Wales.uk | BBC R Wales | 22 programmi
-NO  BBC.R.n.Gael.uk | BBC R n Gael | 20 programmi
+SI  BBC.Four.HD.uk | BBC Four HD | 22 programmi
+SI  BBC.NEWS.HD.uk | BBC NEWS HD | 82 programmi
+NO  BBC.One.CI.HD.uk | BBC One CI HD | 42 programmi
+NO  BBC.One.E.Mid.HD.uk | BBC One E Mid HD | 42 programmi
+SI  BBC.One.EastHD.uk | BBC One EastHD | 42 programmi
+NO  BBC.One.Lon.HD.uk | BBC One Lon HD | 42 programmi
+NO  BBC.One.N.West.HD.uk | BBC One N West HD | 42 programmi
+NO  BBC.One.NE.and.C.HD.uk | BBC One NE and C HD | 42 programmi
+NO  BBC.One.NI.HD.uk | BBC One NI HD | 42 programmi
+NO  BBC.One.S.East.HD.uk | BBC One S East HD | 42 programmi
+NO  BBC.One.S.West.HD.uk | BBC One S West HD | 42 programmi
+NO  BBC.One.ScotHD.uk | BBC One ScotHD | 44 programmi
+NO  BBC.One.Sth.HD.uk | BBC One Sth HD | 42 programmi
+NO  BBC.One.WM.HD.uk | BBC One WM HD | 42 programmi
+NO  BBC.One.Wal.HD.uk | BBC One Wal HD | 44 programmi
+SI  BBC.One.West.HD.uk | BBC One West HD | 42 programmi
+NO  BBC.One.Y.and.L.HD.uk | BBC One Y and L HD | 42 programmi
+NO  BBC.One.Yorks.HD.uk | BBC One Yorks HD | 42 programmi
+SI  BBC.Parliament.HD.uk | BBC Parliament HD | 18 programmi
+NO  BBC.R.Cymru.2.uk | BBC R Cymru 2 | 15 programmi
+NO  BBC.R.Cymru.uk | BBC R Cymru | 23 programmi
+NO  BBC.R.Foyle.uk | BBC R Foyle | 40 programmi
+NO  BBC.R.Scot..uk | BBC R Scot. | 17 programmi
+NO  BBC.R.Ulster.uk | BBC R Ulster | 32 programmi
+NO  BBC.R.Wales.uk | BBC R Wales | 20 programmi
+NO  BBC.R.n.Gael.uk | BBC R n Gael | 26 programmi
 NO  BBC.R1.uk | BBC R1 | 27 programmi
-NO  BBC.R1X.uk | BBC R1X | 29 programmi
+NO  BBC.R1X.uk | BBC R1X | 26 programmi
 NO  BBC.R2.uk | BBC R2 | 20 programmi
-NO  BBC.R3.uk | BBC R3 | 17 programmi
-NO  BBC.R4.Ex.uk | BBC R4 Ex | 81 programmi
-NO  BBC.R4.FM.uk | BBC R4 FM | 57 programmi
+NO  BBC.R3.uk | BBC R3 | 20 programmi
+NO  BBC.R4.Ex.uk | BBC R4 Ex | 79 programmi
+NO  BBC.R4.FM.uk | BBC R4 FM | 60 programmi
 NO  BBC.R5L.uk | BBC R5L | 17 programmi
-NO  BBC.R5SX.uk | BBC R5SX | 9 programmi
-NO  BBC.RB.1.HD.uk | BBC RB 1 HD | 9 programmi
+NO  BBC.R5SX.uk | BBC R5SX | 8 programmi
+NO  BBC.RB.1.HD.uk | BBC RB 1 HD | 10 programmi
 NO  BBC.RLondon.uk | BBC RLondon | 14 programmi
 NO  BBC.Radio.Bristol.104.6FM.uk | BBC Radio Bristol 104.6FM | 12 programmi
 NO  BBC.Radio.Bristol.94.9FM.uk | BBC Radio Bristol 94.9FM | 12 programmi
 NO  BBC.Radio.Bristol.DAB.uk | BBC Radio Bristol DAB | 12 programmi
 NO  BBC.Radio.Sussex.uk | BBC Radio Sussex | 11 programmi
-SI  BBC.Three.HD.uk | BBC Three HD | 29 programmi
-SI  BBC.Two.HD.uk | BBC Two HD | 38 programmi
-NO  BBC.Two.NI.HD.uk | BBC Two NI HD | 38 programmi
-NO  BBC.Two.Wal.HD.uk | BBC Two Wal HD | 38 programmi
+SI  BBC.Three.HD.uk | BBC Three HD | 27 programmi
+SI  BBC.Two.HD.uk | BBC Two HD | 43 programmi
+NO  BBC.Two.NI.HD.uk | BBC Two NI HD | 43 programmi
+NO  BBC.Two.Wal.HD.uk | BBC Two Wal HD | 43 programmi
 NO  BBC.WS.uk | BBC WS | 124 programmi
 SI  BBCScotlandHD.uk | BBCScotlandHD | 18 programmi
-NO  BFBS.Radio.uk | BFBS Radio | 16 programmi
-SI  BLAZE.uk | BLAZE | 51 programmi
-NO  BabyTV.uk | BabyTV | 517 programmi
-NO  Best.Direct.uk | Best Direct | 16 programmi
-NO  Bloomberg.HD.uk | Bloomberg HD | 27 programmi
-NO  Boomerang+1.uk | Boomerang+1 | 50 programmi
-NO  Boomerang.HD.uk | Boomerang HD | 50 programmi
-SI  CBBC.HD.uk | CBBC HD | 72 programmi
-NO  CBS.Justice.uk | CBS Justice | 30 programmi
-SI  CBeebies.HD.uk | CBeebies HD | 118 programmi
-NO  CHSTV.uk | CHSTV | 58 programmi
-NO  CN+1.uk | CN+1 | 51 programmi
-NO  CNBC.HD.uk | CNBC HD | 69 programmi
-NO  CNN.HD.uk | CNN HD | 48 programmi
+NO  BFBS.Radio.uk | BFBS Radio | 15 programmi
+SI  BLAZE.uk | BLAZE | 48 programmi
+NO  BabyTV.uk | BabyTV | 485 programmi
+NO  Best.Direct.uk | Best Direct | 21 programmi
+NO  Bloomberg.HD.uk | Bloomberg HD | 26 programmi
+NO  Boomerang+1.uk | Boomerang+1 | 54 programmi
+NO  Boomerang.HD.uk | Boomerang HD | 54 programmi
+SI  CBBC.HD.uk | CBBC HD | 92 programmi
+NO  CBS.Justice.uk | CBS Justice | 33 programmi
+SI  CBeebies.HD.uk | CBeebies HD | 138 programmi
+NO  CHSTV.uk | CHSTV | 64 programmi
+NO  CN+1.uk | CN+1 | 59 programmi
+NO  CNBC.HD.uk | CNBC HD | 73 programmi
+NO  CNN.HD.uk | CNN HD | 49 programmi
 NO  COLORS.HD.uk | COLORS HD | 60 programmi
-NO  Capital.XTRA.uk | Capital XTRA | 14 programmi
-NO  Capital.uk | Capital | 14 programmi
-NO  Cartoon.Net.HD.uk | Cartoon Net HD | 51 programmi
-NO  Cartoon.Netwrk.uk | Cartoon Netwrk | 51 programmi
-NO  Cartoonito.uk | Cartoonito | 50 programmi
-NO  Challenge.uk | Challenge | 47 programmi
+NO  Capital.XTRA.uk | Capital XTRA | 13 programmi
+NO  Capital.uk | Capital | 13 programmi
+NO  Cartoon.Net.HD.uk | Cartoon Net HD | 58 programmi
+NO  Cartoon.Netwrk.uk | Cartoon Netwrk | 58 programmi
+NO  Cartoonito.uk | Cartoonito | 55 programmi
+NO  Challenge.uk | Challenge | 43 programmi
 NO  Channel.4+1.uk | Channel 4+1 | 58 programmi
-SI  Channel.4.HD.uk | Channel 4 HD | 58 programmi
-NO  Channel.5+1.uk | Channel 5+1 | 79 programmi
-SI  Channel.5.HD.uk | Channel 5 HD | 77 programmi
-SI  Channels.24.uk | Channels 24 | 56 programmi
+SI  Channel.4.HD.uk | Channel 4 HD | 56 programmi
+NO  Channel.5+1.uk | Channel 5+1 | 68 programmi
+SI  Channel.5.HD.uk | Channel 5 HD | 62 programmi
+SI  Channels.24.uk | Channels 24 | 59 programmi
 NO  Classic.FM.uk | Classic FM | 17 programmi
-NO  Clubland.TV.uk | Clubland TV | 22 programmi
-NO  ColorsCineplex.uk | ColorsCineplex | 18 programmi
-NO  ColorsGujarati.uk | ColorsGujarati | 63 programmi
-NO  ColorsRishtey.uk | ColorsRishtey | 72 programmi
-NO  ComedyCent+1.uk | ComedyCent+1 | 64 programmi
+NO  Clubland.TV.uk | Clubland TV | 23 programmi
+NO  ColorsCineplex.uk | ColorsCineplex | 16 programmi
+NO  ColorsGujarati.uk | ColorsGujarati | 65 programmi
+NO  ColorsRishtey.uk | ColorsRishtey | 70 programmi
+NO  ComedyCent+1.uk | ComedyCent+1 | 65 programmi
 NO  ComedyCentHD.uk | ComedyCentHD | 65 programmi
 NO  ComedyCentral.uk | ComedyCentral | 65 programmi
-NO  ComedyXtra.uk | ComedyXtra | 68 programmi
+NO  ComedyXtra.uk | ComedyXtra | 66 programmi
 NO  Crime+Inv+1.uk | Crime+Inv+1 | 43 programmi
 NO  Crime+Inv.HD.uk | Crime+Inv HD | 43 programmi
-NO  Cruise1st.tv.uk | Cruise1st.tv | 57 programmi
-NO  DAYSTAR.HD.uk | DAYSTAR HD | 71 programmi
-NO  DMAX+1.uk | DMAX+1 | 47 programmi
-NO  DMAX.uk | DMAX | 47 programmi
-SI  Deen.TV.uk | Deen TV | 45 programmi
-NO  Disc.History+1.uk | Disc.History+1 | 43 programmi
-NO  Disc.History.uk | Disc.History | 43 programmi
-NO  Disc.Sci+1.uk | Disc.Sci+1 | 46 programmi
-NO  Disc.Science.uk | Disc.Science | 46 programmi
-NO  Disc.Turbo+1.uk | Disc.Turbo+1 | 51 programmi
-NO  Disc.Turbo.uk | Disc.Turbo | 51 programmi
-NO  Discovery+1.uk | Discovery+1 | 41 programmi
-NO  Discovery.HD.uk | Discovery HD | 41 programmi
-NO  Disney+CineHD.uk | Disney+CineHD | 22 programmi
-NO  Disney.Jr.HD.uk | Disney Jr HD | 133 programmi
-NO  E4+1.uk | E4+1 | 56 programmi
-SI  E4.Extra.uk | E4 Extra | 37 programmi
-SI  E4.HD.uk | E4 HD | 57 programmi
-NO  EWTN.Catholic.uk | EWTN Catholic | 57 programmi
+NO  Cruise1st.tv.uk | Cruise1st.tv | 76 programmi
+NO  DAYSTAR.HD.uk | DAYSTAR HD | 70 programmi
+NO  DMAX+1.uk | DMAX+1 | 43 programmi
+NO  DMAX.uk | DMAX | 43 programmi
+SI  Deen.TV.uk | Deen TV | 55 programmi
+NO  Disc.History+1.uk | Disc.History+1 | 41 programmi
+NO  Disc.History.uk | Disc.History | 41 programmi
+NO  Disc.Sci+1.uk | Disc.Sci+1 | 48 programmi
+NO  Disc.Science.uk | Disc.Science | 47 programmi
+NO  Disc.Turbo+1.uk | Disc.Turbo+1 | 49 programmi
+NO  Disc.Turbo.uk | Disc.Turbo | 49 programmi
+NO  Discovery+1.uk | Discovery+1 | 42 programmi
+NO  Discovery.HD.uk | Discovery HD | 42 programmi
+NO  Disney+CineHD.uk | Disney+CineHD | 21 programmi
+NO  Disney.Jr.HD.uk | Disney Jr HD | 127 programmi
+NO  E4+1.uk | E4+1 | 64 programmi
+SI  E4.Extra.uk | E4 Extra | 41 programmi
+SI  E4.HD.uk | E4 HD | 63 programmi
+NO  EWTN.Catholic.uk | EWTN Catholic | 56 programmi
 NO  EasterEpicsHD.uk | EasterEpicsHD | 23 programmi
-SI  Eman.Channel.uk | Eman Channel | 72 programmi
-NO  Euronews.uk | Euronews | 151 programmi
-SI  FRANCE.24.HD.uk | FRANCE 24 HD | 178 programmi
-SI  Faith.World.TV.uk | Faith World TV | 69 programmi
+SI  Eman.Channel.uk | Eman Channel | 93 programmi
+NO  Euronews.uk | Euronews | 148 programmi
+SI  FRANCE.24.HD.uk | FRANCE 24 HD | 182 programmi
+SI  Faith.World.TV.uk | Faith World TV | 70 programmi
 NO  Film4+1.uk | Film4+1 | 14 programmi
-NO  Film4.HD.uk | Film4 HD | 14 programmi
-NO  Food.Network.uk | Food Network | 49 programmi
-NO  Food.Netwrk+1.uk | Food Netwrk+1 | 48 programmi
-NO  G!.romance+1.uk | G! romance+1 | 57 programmi
-SI  GB.News.HD.uk | GB News HD | 19 programmi
-NO  GEO.News.uk | GEO News | 71 programmi
-NO  GEO.TV.uk | GEO TV | 42 programmi
+NO  Film4.HD.uk | Film4 HD | 15 programmi
+NO  Food.Network.uk | Food Network | 46 programmi
+NO  Food.Netwrk+1.uk | Food Netwrk+1 | 46 programmi
+NO  G!.romance+1.uk | G! romance+1 | 56 programmi
+SI  GB.News.HD.uk | GB News HD | 21 programmi
+NO  GEO.News.uk | GEO News | 65 programmi
+NO  GEO.TV.uk | GEO TV | 43 programmi
 NO  GOD.Channel.uk | GOD Channel | 77 programmi
-NO  GREAT!.action.uk | GREAT! action | 54 programmi
-NO  GREAT!.movies+1.uk | GREAT! movies+1 | 56 programmi
-SI  GREAT!.movies.uk | GREAT! movies | 56 programmi
-SI  GREAT!.romance.uk | GREAT! romance | 55 programmi
-NO  GREAT!.tv+1.uk | GREAT! tv+1 | 52 programmi
-NO  GREAT!.tv.uk | GREAT! tv | 51 programmi
-NO  GREAT!action+1.uk | GREAT!action+1 | 54 programmi
-NO  Good.News.TV.uk | Good News TV | 46 programmi
-NO  Greatest.Hits.Radio.(West.Sussex).uk | Greatest Hits Radio (West Sussex) | 14 programmi
+NO  GREAT!.action.uk | GREAT! action | 48 programmi
+NO  GREAT!.movies+1.uk | GREAT! movies+1 | 51 programmi
+SI  GREAT!.movies.uk | GREAT! movies | 50 programmi
+SI  GREAT!.romance.uk | GREAT! romance | 56 programmi
+NO  GREAT!.tv+1.uk | GREAT! tv+1 | 47 programmi
+NO  GREAT!.tv.uk | GREAT! tv | 49 programmi
+NO  GREAT!action+1.uk | GREAT!action+1 | 49 programmi
+NO  Good.News.TV.uk | Good News TV | 56 programmi
+NO  Greatest.Hits.Radio.(West.Sussex).uk | Greatest Hits Radio (West Sussex) | 13 programmi
 NO  Greatest.Hits.uk | Greatest Hits | 39 programmi
-NO  HUM.EUROPE.uk | HUM EUROPE | 51 programmi
-NO  HUM.Masala.uk | HUM Masala | 88 programmi
-NO  Heart.80s.uk | Heart 80s | 11 programmi
-NO  Heart.90s.uk | Heart 90s | 10 programmi
-NO  Heart.Dance.uk | Heart Dance | 16 programmi
+NO  HUM.EUROPE.uk | HUM EUROPE | 56 programmi
+NO  HUM.Masala.uk | HUM Masala | 92 programmi
+NO  Heart.80s.uk | Heart 80s | 13 programmi
+NO  Heart.90s.uk | Heart 90s | 11 programmi
+NO  Heart.Dance.uk | Heart Dance | 15 programmi
 NO  Heart.Sussex.uk | Heart Sussex | 12 programmi
-NO  Heart.uk | Heart | 14 programmi
-NO  High.Street.TV.1.uk | High Street TV 1 | 76 programmi
-NO  High.Street.TV.2.uk | High Street TV 2 | 76 programmi
-NO  High.Street.TV.3.uk | High Street TV 3 | 76 programmi
-NO  High.Street.TV.4.uk | High Street TV 4 | 48 programmi
-NO  ID+1.uk | ID+1 | 43 programmi
-NO  ID.uk | ID | 43 programmi
-SI  IQRA.BANGLA.uk | IQRA BANGLA | 49 programmi
-SI  IQRA.TV.uk | IQRA TV | 55 programmi
-NO  ITV.Quiz.uk | ITV Quiz | 34 programmi
-NO  ITV1+1.uk | ITV1+1 | 37 programmi
-SI  ITV1.HD.uk | ITV1 HD | 36 programmi
-NO  ITV2+1.uk | ITV2+1 | 48 programmi
-SI  ITV2.HD.uk | ITV2 HD | 45 programmi
-NO  ITV3+1.uk | ITV3+1 | 33 programmi
-SI  ITV3.HD.uk | ITV3 HD | 34 programmi
-NO  ITV4+1.uk | ITV4+1 | 34 programmi
-SI  ITV4.HD.uk | ITV4 HD | 34 programmi
-NO  Islam.Ch.Urdu.uk | Islam Ch Urdu | 67 programmi
-SI  Islam.Channel.uk | Islam Channel | 85 programmi
-NO  Islam.TV.uk | Islam TV | 57 programmi
-SI  JewelleryMaker.uk | JewelleryMaker | 33 programmi
-NO  KTV.uk | KTV | 43 programmi
-SI  Kanshi.TV.uk | Kanshi TV | 29 programmi
-NO  LBC.News.uk | LBC News | 14 programmi
+NO  Heart.uk | Heart | 13 programmi
+NO  High.Street.TV.1.uk | High Street TV 1 | 75 programmi
+NO  High.Street.TV.2.uk | High Street TV 2 | 75 programmi
+NO  High.Street.TV.3.uk | High Street TV 3 | 75 programmi
+NO  High.Street.TV.4.uk | High Street TV 4 | 45 programmi
+NO  ID+1.uk | ID+1 | 42 programmi
+NO  ID.uk | ID | 41 programmi
+SI  IQRA.BANGLA.uk | IQRA BANGLA | 57 programmi
+SI  IQRA.TV.uk | IQRA TV | 63 programmi
+NO  ITV.Quiz.uk | ITV Quiz | 37 programmi
+NO  ITV1+1.uk | ITV1+1 | 39 programmi
+SI  ITV1.HD.uk | ITV1 HD | 40 programmi
+NO  ITV2+1.uk | ITV2+1 | 44 programmi
+SI  ITV2.HD.uk | ITV2 HD | 44 programmi
+NO  ITV3+1.uk | ITV3+1 | 37 programmi
+SI  ITV3.HD.uk | ITV3 HD | 35 programmi
+NO  ITV4+1.uk | ITV4+1 | 36 programmi
+SI  ITV4.HD.uk | ITV4 HD | 36 programmi
+NO  Islam.Ch.Urdu.uk | Islam Ch Urdu | 79 programmi
+SI  Islam.Channel.uk | Islam Channel | 93 programmi
+NO  Islam.TV.uk | Islam TV | 59 programmi
+SI  JewelleryMaker.uk | JewelleryMaker | 36 programmi
+NO  KTV.uk | KTV | 41 programmi
+SI  Kanshi.TV.uk | Kanshi TV | 34 programmi
+NO  LBC.News.uk | LBC News | 13 programmi
 NO  LBC.uk | LBC | 15 programmi
-NO  LFCTV.HD.uk | LFCTV HD | 67 programmi
-NO  Legend.Xtra+1.uk | Legend Xtra+1 | 26 programmi
-NO  Legend.Xtra.uk | Legend Xtra | 26 programmi
-NO  Legend.uk | Legend | 30 programmi
-NO  Live.360.uk | Live 360 | 54 programmi
+NO  LFCTV.HD.uk | LFCTV HD | 66 programmi
+NO  Legend.Xtra+1.uk | Legend Xtra+1 | 30 programmi
+NO  Legend.Xtra.uk | Legend Xtra | 31 programmi
+NO  Legend.uk | Legend | 33 programmi
+NO  Live.360.uk | Live 360 | 48 programmi
 NO  LoveWorld.HD.uk | LoveWorld HD | 80 programmi
-NO  MATV.National.uk | MATV National | 40 programmi
+NO  MATV.National.uk | MATV National | 44 programmi
 NO  MTV.HD.uk | MTV HD | 51 programmi
-SI  MUTV.HD.uk | MUTV HD | 92 programmi
-NO  Madani.Chnl.uk | Madani Chnl | 46 programmi
+SI  MUTV.HD.uk | MUTV HD | 88 programmi
+NO  Madani.Chnl.uk | Madani Chnl | 48 programmi
 NO  More.Radio.Mid.Sussex.uk | More Radio Mid Sussex | 9 programmi
-NO  More4+1.uk | More4+1 | 42 programmi
-SI  More4.HD.uk | More4 HD | 43 programmi
-NO  Movies24+.uk | Movies24+ | 26 programmi
-NO  Movies24.uk | Movies24 | 26 programmi
+NO  More4+1.uk | More4+1 | 48 programmi
+SI  More4.HD.uk | More4 HD | 49 programmi
+NO  Movies24+.uk | Movies24+ | 23 programmi
+NO  Movies24.uk | Movies24 | 23 programmi
 NO  NDTV.24x7.uk | NDTV 24x7 | 77 programmi
-NO  NHK.World.HD.uk | NHK World HD | 108 programmi
+NO  NHK.World.HD.uk | NHK World HD | 99 programmi
 SI  NOW.70s.uk | NOW 70s | 25 programmi
-SI  NOW.80s.uk | NOW 80s | 29 programmi
-NO  NOW.90s.uk | NOW 90s | 22 programmi
-NO  NOW.90s00s.uk | NOW 90s00s | 18 programmi
-NO  NTV.uk | NTV | 70 programmi
-NO  Nat.Geo.HD.uk | Nat Geo HD | 51 programmi
-NO  Nat.Geo.Wild.uk | Nat Geo Wild | 43 programmi
-NO  NatGeoWild.HD.uk | NatGeoWild HD | 43 programmi
-NO  New.Vision.TV.uk | New Vision TV | 78 programmi
-NO  Nick.Jr+1.uk | Nick Jr+1 | 172 programmi
-NO  Nick.Jr..HD.uk | Nick Jr. HD | 173 programmi
+SI  NOW.80s.uk | NOW 80s | 28 programmi
+NO  NOW.90s.uk | NOW 90s | 20 programmi
+NO  NOW.90s00s.uk | NOW 90s00s | 14 programmi
+NO  NTV.uk | NTV | 74 programmi
+NO  Nat.Geo.HD.uk | Nat Geo HD | 45 programmi
+NO  Nat.Geo.Wild.uk | Nat Geo Wild | 41 programmi
+NO  NatGeoWild.HD.uk | NatGeoWild HD | 41 programmi
+NO  New.Vision.TV.uk | New Vision TV | 79 programmi
+NO  Nick.Jr+1.uk | Nick Jr+1 | 165 programmi
+NO  Nick.Jr..HD.uk | Nick Jr. HD | 164 programmi
 NO  Nick.Jr..Too.uk | Nick Jr. Too | 305 programmi
-NO  Nickelodeon+1.uk | Nickelodeon+1 | 83 programmi
-SI  NickelodeonHD.uk | NickelodeonHD | 83 programmi
-NO  Nicktoons.uk | Nicktoons | 83 programmi
+NO  Nickelodeon+1.uk | Nickelodeon+1 | 80 programmi
+NO  NickelodeonHD.uk | NickelodeonHD | 80 programmi
+NO  Nicktoons.uk | Nicktoons | 80 programmi
 SI  Noor.TV.uk | Noor TV | 34 programmi
-SI  Now.Rock.uk | Now Rock | 22 programmi
-SI  PBS.America.uk | PBS America | 30 programmi
-NO  PCNE.Chinese.HD.uk | PCNE Chinese HD | 79 programmi
-NO  POLITICSPUNJAB.uk | POLITICSPUNJAB | 42 programmi
-NO  PTC.PUNJABI.uk | PTC PUNJABI | 35 programmi
+SI  Now.Rock.uk | Now Rock | 20 programmi
+SI  PBS.America.uk | PBS America | 34 programmi
+NO  PCNE.Chinese.HD.uk | PCNE Chinese HD | 82 programmi
+NO  POLITICSPUNJAB.uk | POLITICSPUNJAB | 47 programmi
+NO  PTC.PUNJABI.uk | PTC PUNJABI | 44 programmi
 NO  Panjab.Radio.uk | Panjab Radio | 20 programmi
-NO  Pitaara..uk | Pitaara | 19 programmi
+NO  Pitaara..uk | Pitaara | 17 programmi
 NO  Premier.Sports.1.HD.uk | Premier Sports 1 HD | 48 programmi
-NO  Premier.Sports.2.HD.uk | Premier Sports 2 HD | 32 programmi
-NO  QUEST+1.uk | QUEST+1 | 48 programmi
-SI  QUEST.HD.uk | QUEST HD | 48 programmi
+NO  Premier.Sports.2.HD.uk | Premier Sports 2 HD | 34 programmi
+NO  QUEST+1.uk | QUEST+1 | 45 programmi
+SI  QUEST.HD.uk | QUEST HD | 45 programmi
 SI  QVC.Beauty.uk | QVC Beauty | 39 programmi
 SI  QVC.Extra.uk | QVC Extra | 39 programmi
-SI  QVC.HD.uk | QVC HD | 37 programmi
+SI  QVC.HD.uk | QVC HD | 36 programmi
 SI  QVC.Style.HD.uk | QVC Style HD | 39 programmi
-SI  Quest.Red+1.uk | Quest Red+1 | 49 programmi
-SI  Quest.Red.uk | Quest Red | 49 programmi
-NO  RTÉ.2FM.uk | RTÉ 2FM | 13 programmi
-NO  RTÉ.Lyric.fm.uk | RTÉ Lyric fm | 11 programmi
-NO  RTÉ.R.na.G.uk | RTÉ R na G | 31 programmi
-NO  RTÉ.Radio.1.uk | RTÉ Radio 1 | 24 programmi
-NO  Racing.TV.HD.uk | Racing TV HD | 32 programmi
-NO  Radio.X.uk | Radio X | 14 programmi
-SI  Really.uk | Really | 37 programmi
-NO  Rewind.TV.uk | Rewind TV | 51 programmi
-SI  S4C.HD.uk | S4C HD | 96 programmi
-NO  SONY.MAX.2.uk | SONY MAX 2 | 17 programmi
-NO  SONY.MAX.HD.uk | SONY MAX HD | 25 programmi
-NO  SONY.SAB.uk | SONY SAB | 68 programmi
-NO  SONY.TV.HD.uk | SONY TV HD | 47 programmi
-SI  STV.Central.+1.uk | STV Central +1 | 40 programmi
-SI  STV.Central.uk | STV Central | 39 programmi
-SI  STV.HD.uk | STV HD | 39 programmi
-SI  STV.North.+1.uk | STV North +1 | 40 programmi
-SI  STV.North.uk | STV North | 39 programmi
-NO  Sangat.uk | Sangat | 48 programmi
-NO  Sanskar.uk | Sanskar | 56 programmi
-NO  Sikh.Channel.uk | Sikh Channel | 37 programmi
-NO  Sky.Action.HD.uk | Sky Action HD | 22 programmi
-NO  Sky.Action.uk | Sky Action | 22 programmi
-NO  Sky.Adventure.uk | Sky Adventure | 26 programmi
-NO  Sky.Arts.HD.uk | Sky Arts HD | 42 programmi
-NO  Sky.Atlantic.HD.uk | Sky Atlantic HD | 38 programmi
+SI  Quest.Red+1.uk | Quest Red+1 | 46 programmi
+SI  Quest.Red.uk | Quest Red | 46 programmi
+NO  RTÉ.2FM.uk | RTÉ 2FM | 14 programmi
+NO  RTÉ.Lyric.fm.uk | RTÉ Lyric fm | 14 programmi
+NO  RTÉ.R.na.G.uk | RTÉ R na G | 40 programmi
+NO  RTÉ.Radio.1.uk | RTÉ Radio 1 | 25 programmi
+NO  Racing.TV.HD.uk | Racing TV HD | 31 programmi
+NO  Radio.X.uk | Radio X | 13 programmi
+SI  Really.uk | Really | 38 programmi
+NO  Rewind.TV.uk | Rewind TV | 57 programmi
+SI  S4C.HD.uk | S4C HD | 106 programmi
+NO  SONY.MAX.2.uk | SONY MAX 2 | 14 programmi
+NO  SONY.MAX.HD.uk | SONY MAX HD | 26 programmi
+NO  SONY.SAB.uk | SONY SAB | 66 programmi
+NO  SONY.TV.HD.uk | SONY TV HD | 44 programmi
+SI  STV.Central.+1.uk | STV Central +1 | 42 programmi
+SI  STV.Central.uk | STV Central | 43 programmi
+SI  STV.HD.uk | STV HD | 43 programmi
+SI  STV.North.+1.uk | STV North +1 | 42 programmi
+SI  STV.North.uk | STV North | 43 programmi
+NO  Sangat.uk | Sangat | 49 programmi
+NO  Sanskar.uk | Sanskar | 46 programmi
+NO  Sikh.Channel.uk | Sikh Channel | 40 programmi
+NO  Sky.Action.HD.uk | Sky Action HD | 21 programmi
+NO  Sky.Action.uk | Sky Action | 21 programmi
+NO  Sky.Adventure.uk | Sky Adventure | 25 programmi
+NO  Sky.Arts.HD.uk | Sky Arts HD | 49 programmi
+NO  Sky.Atlantic.HD.uk | Sky Atlantic HD | 37 programmi
 NO  Sky.Cinema.Comedy.uk | Sky Cinema Comedy | 22 programmi
-NO  Sky.Cinema.Hits.HD.uk | Sky Cinema Hits HD | 24 programmi
+NO  Sky.Cinema.Hits.HD.uk | Sky Cinema Hits HD | 25 programmi
 NO  Sky.Cinema.Select.uk | Sky Cinema Select | 23 programmi
 NO  Sky.Comedy.HD.uk | Sky Comedy HD | 65 programmi
-NO  Sky.Crime.HD.uk | Sky Crime HD | 43 programmi
-NO  Sky.Documentaries.HD.uk | Sky Documentaries HD | 31 programmi
-NO  Sky.Drama.HD.uk | Sky Drama HD | 20 programmi
-NO  Sky.Family.HD.uk | Sky Family HD | 26 programmi
-NO  Sky.Greats.HD.uk | Sky Greats HD | 23 programmi
-NO  Sky.Greats.uk | Sky Greats | 23 programmi
-NO  Sky.History2.uk | Sky History2 | 43 programmi
+NO  Sky.Crime.HD.uk | Sky Crime HD | 41 programmi
+NO  Sky.Documentaries.HD.uk | Sky Documentaries HD | 32 programmi
+NO  Sky.Drama.HD.uk | Sky Drama HD | 19 programmi
+NO  Sky.Family.HD.uk | Sky Family HD | 25 programmi
+NO  Sky.Greats.HD.uk | Sky Greats HD | 22 programmi
+NO  Sky.Greats.uk | Sky Greats | 22 programmi
+NO  Sky.History2.uk | Sky History2 | 42 programmi
 NO  Sky.HistoryHD.uk | Sky HistoryHD | 52 programmi
-NO  Sky.Kids.HD.uk | Sky Kids HD | 320 programmi
-NO  Sky.Mix.HD.uk | Sky Mix HD | 59 programmi
-NO  Sky.Nature.HD.uk | Sky Nature HD | 43 programmi
-SI  Sky.News.HD.uk | Sky News HD | 62 programmi
+NO  Sky.Kids.HD.uk | Sky Kids HD | 318 programmi
+NO  Sky.Mix.HD.uk | Sky Mix HD | 56 programmi
+NO  Sky.Nature.HD.uk | Sky Nature HD | 44 programmi
+SI  Sky.News.HD.uk | Sky News HD | 65 programmi
 NO  Sky.One.HD.uk | Sky One HD | 50 programmi
 NO  Sky.Premiere.uk | Sky Premiere | 23 programmi
-NO  Sky.ScFi/HorHD.uk | Sky ScFi/HorHD | 23 programmi
+NO  Sky.ScFi/HorHD.uk | Sky ScFi/HorHD | 22 programmi
 NO  Sky.Sci-Fi.HD.uk | Sky Sci-Fi HD | 43 programmi
-NO  Sky.Sports.Football.HD.uk | Sky Sports Football HD | 60 programmi
-SI  Sky.Sports.NFL.uk | Sky Sports NFL | 50 programmi
+NO  Sky.Sports.Football.HD.uk | Sky Sports Football HD | 70 programmi
+SI  Sky.Sports.NFL.uk | Sky Sports NFL | 54 programmi
 NO  Sky.Sports.Ultra.HD.1.uk | Sky Sports Ultra HD 1 | 12 programmi
 NO  Sky.Sports.Ultra.HD.2.uk | Sky Sports Ultra HD 2 | 7 programmi
 NO  Sky.Thriller.HD.uk | Sky Thriller HD | 20 programmi
 NO  Sky.Valentine.uk | Sky Valentine | 23 programmi
 NO  Sky.Witness.HD.uk | Sky Witness HD | 51 programmi
-NO  SkyAdventureHD.uk | SkyAdventureHD | 26 programmi
-NO  SkyHistory2HD.uk | SkyHistory2HD | 43 programmi
-NO  SkyMegaHitsHD.uk | SkyMegaHitsHD | 24 programmi
-NO  SkyNewsArabia.uk | SkyNewsArabia | 56 programmi
+NO  SkyAdventureHD.uk | SkyAdventureHD | 25 programmi
+NO  SkyHistory2HD.uk | SkyHistory2HD | 42 programmi
+NO  SkyMegaHitsHD.uk | SkyMegaHitsHD | 25 programmi
+NO  SkyNewsArabia.uk | SkyNewsArabia | 53 programmi
 NO  SkyPremiereHD.uk | SkyPremiereHD | 23 programmi
-NO  SkySp+.uk | SkySp+ | 38 programmi
-NO  SkySp+HD.uk | SkySp+HD | 38 programmi
-NO  SkySp.Action.uk | SkySp Action | 50 programmi
-NO  SkySp.ActionHD.uk | SkySp ActionHD | 50 programmi
-NO  SkySp.Cricket.uk | SkySp Cricket | 38 programmi
-NO  SkySp.F1.HD.uk | SkySp F1 HD | 44 programmi
-NO  SkySp.F1.uk | SkySp F1 | 44 programmi
-NO  SkySp.Fball.HD.uk | SkySp Fball HD | 60 programmi
-NO  SkySp.Fball.uk | SkySp Fball | 60 programmi
-NO  SkySp.Golf.HD.uk | SkySp Golf HD | 45 programmi
-NO  SkySp.Golf.uk | SkySp Golf | 46 programmi
-NO  SkySp.Mix.HD.uk | SkySp Mix HD | 63 programmi
-NO  SkySp.News.HD.uk | SkySp News HD | 40 programmi
-NO  SkySp.PL.HD.uk | SkySp PL HD | 58 programmi
-NO  SkySp.Racing.HD.uk | SkySp Racing HD | 15 programmi
+NO  SkySp+.uk | SkySp+ | 39 programmi
+NO  SkySp+HD.uk | SkySp+HD | 39 programmi
+NO  SkySp.Action.uk | SkySp Action | 54 programmi
+NO  SkySp.ActionHD.uk | SkySp ActionHD | 54 programmi
+NO  SkySp.Cricket.uk | SkySp Cricket | 36 programmi
+NO  SkySp.F1.HD.uk | SkySp F1 HD | 37 programmi
+NO  SkySp.F1.uk | SkySp F1 | 37 programmi
+NO  SkySp.Fball.HD.uk | SkySp Fball HD | 70 programmi
+NO  SkySp.Fball.uk | SkySp Fball | 70 programmi
+NO  SkySp.Golf.HD.uk | SkySp Golf HD | 38 programmi
+NO  SkySp.Golf.uk | SkySp Golf | 39 programmi
+NO  SkySp.Mix.HD.uk | SkySp Mix HD | 57 programmi
+NO  SkySp.News.HD.uk | SkySp News HD | 36 programmi
+NO  SkySp.PL.HD.uk | SkySp PL HD | 51 programmi
+NO  SkySp.Racing.HD.uk | SkySp Racing HD | 13 programmi
 NO  SkySp.Tennis.HD.uk | SkySp Tennis HD | 40 programmi
-NO  SkySpCricket.HD.uk | SkySpCricket HD | 38 programmi
-NO  SkySpMainEvHD.uk | SkySpMainEvHD | 21 programmi
+NO  SkySpCricket.HD.uk | SkySpCricket HD | 36 programmi
+NO  SkySpMainEvHD.uk | SkySpMainEvHD | 18 programmi
 NO  SkyValentineHD.uk | SkyValentineHD | 23 programmi
-NO  Smooth.uk | Smooth | 14 programmi
-NO  SonLife.uk | SonLife | 33 programmi
-NO  Spider-Man.HD.uk | Spider-Man HD | 24 programmi
+NO  Smooth.uk | Smooth | 13 programmi
+NO  SonLife.uk | SonLife | 34 programmi
+NO  Spider-Man.HD.uk | Spider-Man HD | 25 programmi
 SI  TBN.UK.uk | TBN UK | 70 programmi
 SI  TJC.HD.uk | TJC HD | 39 programmi
-NO  TLC+1.uk | TLC+1 | 62 programmi
-NO  TLC.HD.uk | TLC HD | 63 programmi
+NO  TLC+1.uk | TLC+1 | 70 programmi
+NO  TLC.HD.uk | TLC HD | 69 programmi
 NO  TNT.Sport.BoxOffice.HD.uk | TNT Sport BoxOffice HD | 7 programmi
-SI  TNT.Sports.1.HD.uk | TNT Sports 1 HD | 44 programmi
+SI  TNT.Sports.1.HD.uk | TNT Sports 1 HD | 38 programmi
 NO  TNT.Sports.10.HD.uk | TNT Sports 10 HD | 4 programmi
-SI  TNT.Sports.2.HD.uk | TNT Sports 2 HD | 31 programmi
-SI  TNT.Sports.3.HD.uk | TNT Sports 3 HD | 52 programmi
+SI  TNT.Sports.2.HD.uk | TNT Sports 2 HD | 35 programmi
+SI  TNT.Sports.3.HD.uk | TNT Sports 3 HD | 49 programmi
 SI  TNT.Sports.4.HD.uk | TNT Sports 4 HD | 50 programmi
-NO  TNT.Sports.5.HD.uk | TNT Sports 5 HD | 5 programmi
+NO  TNT.Sports.5.HD.uk | TNT Sports 5 HD | 6 programmi
 NO  TNT.Sports.6.HD.uk | TNT Sports 6 HD | 5 programmi
 NO  TNT.Sports.7.HD.uk | TNT Sports 7 HD | 5 programmi
 NO  TNT.Sports.8.HD.uk | TNT Sports 8 HD | 5 programmi
@@ -332,58 +332,58 @@ NO  TNT.Sports.Box.Office.2.uk | TNT Sports Box Office 2 | 7 programmi
 NO  TNT.Sports.Box.Office.uk | TNT Sports Box Office | 7 programmi
 NO  TNT.Sports.Ultimate.HD.uk | TNT Sports Ultimate HD | 6 programmi
 NO  TNTSBoxOff2HD.uk | TNTSBoxOff2HD | 7 programmi
-SI  TRT.World.HD.uk | TRT World HD | 74 programmi
-SI  TRT.World.uk | TRT World | 74 programmi
-SI  TV.One.uk | TV One | 69 programmi
+SI  TRT.World.HD.uk | TRT World HD | 72 programmi
+SI  TRT.World.uk | TRT World | 72 programmi
+SI  TV.One.uk | TV One | 80 programmi
 SI  TV.Warehouse.uk | TV Warehouse | 77 programmi
 NO  TVC.News.uk | TVC News | 77 programmi
 SI  Takbeer.TV.uk | Takbeer TV | 39 programmi
-NO  TalkRadio.(TalkTV).uk | TalkRadio (TalkTV) | 14 programmi
+NO  TalkRadio.(TalkTV).uk | TalkRadio (TalkTV) | 13 programmi
 NO  TalkingPictures.uk | TalkingPictures | 33 programmi
-NO  Together.uk | Together | 46 programmi
+NO  Together.uk | Together | 41 programmi
 NO  Travelxp.uk | Travelxp | 76 programmi
-NO  True.Crime.+1.uk | True Crime +1 | 52 programmi
+NO  True.Crime.+1.uk | True Crime +1 | 60 programmi
 NO  True.Crime.Xtra.uk | True Crime Xtra | 68 programmi
-SI  True.Crime.uk | True Crime | 53 programmi
-NO  U.and.Dave.HD.uk | U and Dave HD | 48 programmi
-NO  U.and.Dave.ja.vu.uk | U and Dave ja vu | 47 programmi
-NO  U.and.Drama+1.uk | U and Drama+1 | 37 programmi
-NO  U.and.Drama.+1.uk | U and Drama +1 | 37 programmi
-NO  U.and.Drama.uk | U and Drama | 38 programmi
-NO  U.and.Eden+1.uk | U and Eden+1 | 49 programmi
-NO  U.and.Eden.uk | U and Eden | 49 programmi
-NO  U.and.GOLD+1.uk | U and GOLD+1 | 54 programmi
-NO  U.and.GOLD.HD.uk | U and GOLD HD | 54 programmi
-NO  U.and.Gold.uk | Gold | 13 programmi
-NO  U.and.Laughs.uk | U and Laughs | 53 programmi
-NO  U.and.Real.Heroes.uk | U and Real Heroes | 46 programmi
-NO  U.and.The.Past.uk | U and The Past | 46 programmi
-NO  U.and.Transport.uk | U and Transport | 48 programmi
-NO  U.and.W+1.uk | U and W+1 | 36 programmi
-NO  U.and.W.HD.uk | U and W HD | 36 programmi
+SI  True.Crime.uk | True Crime | 61 programmi
+NO  U.and.Dave.HD.uk | U and Dave HD | 50 programmi
+NO  U.and.Dave.ja.vu.uk | U and Dave ja vu | 50 programmi
+NO  U.and.Drama+1.uk | U and Drama+1 | 43 programmi
+NO  U.and.Drama.+1.uk | U and Drama +1 | 43 programmi
+NO  U.and.Drama.uk | U and Drama | 42 programmi
+NO  U.and.Eden+1.uk | U and Eden+1 | 43 programmi
+NO  U.and.Eden.uk | U and Eden | 44 programmi
+NO  U.and.GOLD+1.uk | U and GOLD+1 | 56 programmi
+NO  U.and.GOLD.HD.uk | U and GOLD HD | 56 programmi
+NO  U.and.Gold.uk | Gold | 11 programmi
+NO  U.and.Laughs.uk | U and Laughs | 47 programmi
+NO  U.and.Real.Heroes.uk | U and Real Heroes | 45 programmi
+NO  U.and.The.Past.uk | U and The Past | 45 programmi
+NO  U.and.Transport.uk | U and Transport | 46 programmi
+NO  U.and.W+1.uk | U and W+1 | 38 programmi
+NO  U.and.W.HD.uk | U and W HD | 38 programmi
 NO  U.and.YESTERDAY+1.uk | U and YESTERDAY+1 | 39 programmi
 NO  U.and.YESTERDAY.uk | U and YESTERDAY | 39 programmi
-NO  U.and.alibi.HD.uk | U and alibi HD | 37 programmi
-NO  UTV.uk | UTV | 38 programmi
-SI  Utsav.Bharat.uk | Utsav Bharat | 55 programmi
+NO  U.and.alibi.HD.uk | U and alibi HD | 38 programmi
+NO  UTV.uk | UTV | 42 programmi
+SI  Utsav.Bharat.uk | Utsav Bharat | 62 programmi
 NO  Utsav.GOLD.uk | Utsav GOLD | 14 programmi
 NO  Utsav.Gold.HD.uk | Utsav Gold HD | 14 programmi
 SI  Utsav.Plus.HD.uk | Utsav Plus HD | 76 programmi
-NO  Virgin.Media.Four.HD.uk | Virgin Media Four HD | 35 programmi
-NO  Virgin.Media.One.+1.uk | Virgin Media One +1 | 33 programmi
-NO  Virgin.Media.One.HD.uk | Virgin Media One HD | 32 programmi
-NO  Virgin.Media.Three.uk | Virgin Media Three | 29 programmi
+NO  Virgin.Media.Four.HD.uk | Virgin Media Four HD | 41 programmi
+NO  Virgin.Media.One.+1.uk | Virgin Media One +1 | 39 programmi
+NO  Virgin.Media.One.HD.uk | Virgin Media One HD | 39 programmi
+NO  Virgin.Media.Three.uk | Virgin Media Three | 31 programmi
 NO  Virgin.Media.Two.HD.uk | Virgin Media Two HD | 33 programmi
-NO  Virgin.Radio.uk | Virgin Radio | 11 programmi
-NO  WRN.Europe.uk | WRN Europe | 56 programmi
-NO  Word.Network.uk | Word Network | 44 programmi
-NO  XXXpublicpikups.uk | XXXpublicpikups | 51 programmi
-NO  Zee.Cinema.uk | Zee Cinema | 13 programmi
-NO  Zee.TV.HD.uk | Zee TV HD | 63 programmi
-NO  alibi+1.uk | alibi+1 | 37 programmi
-SI  iON.TV.uk | iON TV | 54 programmi
-NO  revelation.uk | revelation | 52 programmi
-SI  talkSPORT.uk | talkSPORT | 14 programmi
+NO  Virgin.Radio.uk | Virgin Radio | 10 programmi
+NO  WRN.Europe.uk | WRN Europe | 53 programmi
+NO  Word.Network.uk | Word Network | 37 programmi
+NO  XXXpublicpikups.uk | XXXpublicpikups | 57 programmi
+NO  Zee.Cinema.uk | Zee Cinema | 14 programmi
+NO  Zee.TV.HD.uk | Zee TV HD | 64 programmi
+NO  alibi+1.uk | alibi+1 | 38 programmi
+SI  iON.TV.uk | iON TV | 59 programmi
+NO  revelation.uk | revelation | 50 programmi
+SI  talkSPORT.uk | talkSPORT | 13 programmi
 
 == Canali delle PLAYLIST senza guida (per nome) ==
 5 Cops
@@ -511,6 +511,7 @@ IBC Tamil (1080p)
 Inside Crime (1080p)
 Iran International (1080p)
 Judge Judy (Germany)
+KN Music TV (1080p)
 KTO (404p) [Not 24/7]
 Kalsan TV (576p)
 Kanal Jadid
@@ -594,9 +595,9 @@ Sky Sports F1 (720p)
 Sky Sports News (576p)
 So... Real UK (720p)
 Spark TV (1080p)
-Star Bharat (United Kingdom) (576p)
+Star Bharat (576p)
 Star Vijay UK (396p)
-StarPlus (United Kingdom) (576p)
+StarPlus (576p)
 Strongman UK (720p)
 TalkTV
 Talking Pictures TV Ⓢ
