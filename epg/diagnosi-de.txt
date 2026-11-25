@@ -1,198 +1,198 @@
-Guida: 251 canali con programmi nella finestra; scelti: 70
+Guida: 250 canali con programmi nella finestra; scelti: 70
 
 == Canali della GUIDA (con programmi) e se agganciati ==
 SI  123.tv.de | 123.tv | 39 programmi
-NO  13th.Street.Universal.de | 13th Street Universal | 52 programmi
-NO  3+.de | 3+ | 27 programmi
+NO  13th.Street.Universal.de | 13th Street Universal | 54 programmi
+NO  3+.de | 3+ | 23 programmi
 SI  3sat.de | 3sat | 64 programmi
-SI  ANIXE.de | ANIXE | 58 programmi
-SI  ARD.alpha.de | ARD alpha | 75 programmi
-SI  ARTE.de | ARTE | 48 programmi
-NO  ATV.II.de | ATV II | 34 programmi
-NO  ATV.de | ATV | 48 programmi
-SI  AXN.Black.de | AXN Black | 49 programmi
-SI  AXN.White.de | AXN White | 46 programmi
-NO  Adult.Channel.de | Adult Channel | 25 programmi
-NO  Al.Jazeera.de | Al Jazeera | 59 programmi
-NO  Animal.Planet.de | Animal Planet | 50 programmi
-NO  Auto.Motor.Sport.de | Auto Motor Sport | 93 programmi
+SI  ANIXE.de | ANIXE | 49 programmi
+SI  ARD.alpha.de | ARD alpha | 76 programmi
+SI  ARTE.de | ARTE | 47 programmi
+NO  ATV.II.de | ATV II | 29 programmi
+NO  ATV.de | ATV | 45 programmi
+SI  AXN.Black.de | AXN Black | 48 programmi
+SI  AXN.White.de | AXN White | 44 programmi
+NO  Adult.Channel.de | Adult Channel | 46 programmi
+NO  Al.Jazeera.de | Al Jazeera | 60 programmi
+NO  Animal.Planet.de | Animal Planet | 51 programmi
+NO  Auto.Motor.Sport.de | Auto Motor Sport | 97 programmi
 NO  BBC.News.de | BBC News | 82 programmi
-NO  BBC.One.de | BBC One | 45 programmi
-NO  BBC.Two.de | BBC Two | 44 programmi
-NO  BBC.World.News.de | BBC World News | 100 programmi
-NO  BBC.four.de | BBC four | 15 programmi
-NO  BR.de | BR | 58 programmi
-NO  Beate-Uhse.TV.de | Beate-Uhse.TV | 18 programmi
-NO  Belgien.1.de | Belgien 1 | 81 programmi
+NO  BBC.One.de | BBC One | 37 programmi
+NO  BBC.Two.de | BBC Two | 42 programmi
+NO  BBC.World.News.de | BBC World News | 96 programmi
+NO  BBC.four.de | BBC four | 20 programmi
+NO  BR.de | BR | 60 programmi
+NO  Beate-Uhse.TV.de | Beate-Uhse.TV | 30 programmi
+NO  Belgien.1.de | Belgien 1 | 84 programmi
 NO  Bergblick.de | Bergblick | 48 programmi
-SI  Bibel.TV.de | Bibel TV | 90 programmi
-NO  Bloomberg.Europe.TV.de | Bloomberg Europe TV | 31 programmi
+SI  Bibel.TV.de | Bibel TV | 87 programmi
+NO  Bloomberg.Europe.TV.de | Bloomberg Europe TV | 33 programmi
 NO  Bon.Gusto.de | Bon Gusto | 80 programmi
-NO  CNBC.de | CNBC | 61 programmi
-NO  CNN.International.de | CNN International | 48 programmi
+NO  CNBC.de | CNBC | 54 programmi
+NO  CNN.International.de | CNN International | 44 programmi
 NO  CNN.Türk.de | CNN Türk | 15 programmi
-NO  CRIME.+.INVESTIGATION.de | CRIME + INVESTIGATION | 47 programmi
-NO  Canal+.Cinéma.de | Canal+ Cinéma | 27 programmi
-NO  Canal+.Sport.de | Canal+ Sport | 32 programmi
-NO  Canal+.de | Canal+ | 52 programmi
-NO  Canale.5.de | Canale 5 | 53 programmi
-NO  Cartoon.Network.de | Cartoon Network | 175 programmi
-NO  Cartoonito.de | Cartoonito | 192 programmi
-NO  Classica.de | Classica | 40 programmi
+NO  CRIME.+.INVESTIGATION.de | CRIME + INVESTIGATION | 49 programmi
+NO  Canal+.Cinéma.de | Canal+ Cinéma | 28 programmi
+NO  Canal+.Sport.de | Canal+ Sport | 24 programmi
+NO  Canal+.de | Canal+ | 47 programmi
+NO  Canale.5.de | Canale 5 | 56 programmi
+NO  Cartoon.Network.de | Cartoon Network | 180 programmi
+NO  Cartoonito.de | Cartoonito | 199 programmi
+NO  Classica.de | Classica | 43 programmi
 SI  Comedy.Central.de | Comedy Central | 97 programmi
-SI  Curiosity.Channel.de | Curiosity Channel | 55 programmi
-NO  DAZN.1.de | DAZN 1 | 28 programmi
-NO  DAZN.2.de | DAZN 2 | 27 programmi
-NO  DAZN.de | DAZN | 14 programmi
+SI  Curiosity.Channel.de | Curiosity Channel | 52 programmi
+NO  DAZN.1.de | DAZN 1 | 23 programmi
+NO  DAZN.2.de | DAZN 2 | 25 programmi
+NO  DAZN.de | DAZN | 13 programmi
 SI  DELUXE.MUSIC.de | DELUXE MUSIC | 23 programmi
-NO  DF1.de | DF1 | 42 programmi
-NO  DFB.Play.de | DFB Play | 28 programmi
-SI  DMAX.de | DMAX | 43 programmi
-SI  DMF.de | DMF | 28 programmi
-SI  DOKUSAT.de | DOKUSAT | 25 programmi
-NO  DR1.de | DR1 | 59 programmi
-NO  DR2.de | DR2 | 36 programmi
-SI  Das.Erste.de | Das Erste | 54 programmi
-NO  Discovery.HD.de | Discovery HD | 50 programmi
-SI  Disney.Channel.de | Disney Channel | 89 programmi
-SI  Dokusat.de | Dokusat | 25 programmi
-NO  EXTREME.SPORTS.de | EXTREME SPORTS | 40 programmi
-NO  Euro.D.de | Euro D | 20 programmi
-NO  Euro.Star.de | Euro Star | 19 programmi
-NO  Eurosport.1.de | Eurosport 1 | 30 programmi
-NO  Eurosport.2.de | Eurosport 2 | 38 programmi
+NO  DF1.de | DF1 | 44 programmi
+NO  DFB.Play.de | DFB Play | 25 programmi
+SI  DMAX.de | DMAX | 47 programmi
+SI  DMF.de | DMF | 30 programmi
+SI  DOKUSAT.de | DOKUSAT | 27 programmi
+NO  DR1.de | DR1 | 53 programmi
+NO  DR2.de | DR2 | 45 programmi
+SI  Das.Erste.de | Das Erste | 50 programmi
+NO  Discovery.HD.de | Discovery HD | 49 programmi
+SI  Disney.Channel.de | Disney Channel | 72 programmi
+SI  Dokusat.de | Dokusat | 29 programmi
+NO  EXTREME.SPORTS.de | EXTREME SPORTS | 45 programmi
+NO  Euro.D.de | Euro D | 19 programmi
+NO  Euro.Star.de | Euro Star | 22 programmi
+NO  Eurosport.1.de | Eurosport 1 | 27 programmi
+NO  Eurosport.2.de | Eurosport 2 | 36 programmi
 NO  Fashion.TV.de | Fashion TV | 77 programmi
-NO  Fix.&.Foxi.de | Fix & Foxi | 104 programmi
-NO  France.2.de | France 2 | 62 programmi
-NO  France.24.(engl.).de | France 24 (engl.) | 197 programmi
-NO  France.24.(franz.).de | France 24 (franz.) | 160 programmi
-NO  France.3.de | France 3 | 74 programmi
-NO  France.4.de | France 4 | 146 programmi
-NO  France.5.de | France 5 | 99 programmi
-NO  GEO.Television.de | GEO Television | 46 programmi
+NO  Fix.&.Foxi.de | Fix & Foxi | 105 programmi
+NO  France.2.de | France 2 | 59 programmi
+NO  France.24.(engl.).de | France 24 (engl.) | 186 programmi
+NO  France.24.(franz.).de | France 24 (franz.) | 165 programmi
+NO  France.3.de | France 3 | 62 programmi
+NO  France.4.de | France 4 | 116 programmi
+NO  France.5.de | France 5 | 118 programmi
+NO  GEO.Television.de | GEO Television | 48 programmi
 NO  Goldstar.TV.de | Goldstar TV | 39 programmi
-NO  Gute.Laune.TV.de | Gute Laune TV | 16 programmi
+NO  Gute.Laune.TV.de | Gute Laune TV | 18 programmi
 SI  HR.de | HR | 66 programmi
 SI  HSE.Extra.de | HSE Extra | 39 programmi
 SI  HSE.de | HSE | 39 programmi
-SI  Hamburg.1.de | Hamburg 1 | 81 programmi
-NO  Heimatkanal.de | Heimatkanal | 37 programmi
-NO  Home.&.Garden.TV.de | Home & Garden TV | 57 programmi
+SI  Hamburg.1.de | Hamburg 1 | 87 programmi
+NO  Heimatkanal.de | Heimatkanal | 35 programmi
+NO  Home.&.Garden.TV.de | Home & Garden TV | 67 programmi
 NO  Jukebox.de | Jukebox | 13 programmi
-NO  K-TV.de | K-TV | 61 programmi
-SI  KIKA.de | KIKA | 87 programmi
+NO  K-TV.de | K-TV | 62 programmi
+SI  KIKA.de | KIKA | 73 programmi
 NO  Kanal.7.Int.de | Kanal 7 Int | 20 programmi
-NO  KinoweltTV.de | KinoweltTV | 20 programmi
-NO  LEIPZIG.FERNSEHEN.de | LEIPZIG FERNSEHEN | 87 programmi
-NO  LUST.PUR.de | LUST PUR | 18 programmi
-NO  MDR.de | MDR | 64 programmi
-NO  MS.Sport.de | MS Sport | 16 programmi
-SI  MTV.de | MTV | 52 programmi
-NO  Marco.Polo.TV.de | Marco Polo TV | 74 programmi
-NO  Mezzo.de | Mezzo | 30 programmi
+NO  KinoweltTV.de | KinoweltTV | 21 programmi
+NO  LEIPZIG.FERNSEHEN.de | LEIPZIG FERNSEHEN | 84 programmi
+NO  LUST.PUR.de | LUST PUR | 30 programmi
+NO  MDR.de | MDR | 61 programmi
+NO  MS.Sport.de | MS Sport | 17 programmi
+SI  MTV.de | MTV | 59 programmi
+NO  Marco.Polo.TV.de | Marco Polo TV | 72 programmi
+NO  Mezzo.de | Mezzo | 28 programmi
 SI  More.than.Sports.TV.de | More than Sports TV | 30 programmi
 SI  Motorvision+.de | Motorvision+ | 69 programmi
 SI  Motorvision.TV.de | Motorvision TV | 69 programmi
-SI  N24.DOKU.de | N24 DOKU | 45 programmi
+SI  N24.DOKU.de | N24 DOKU | 49 programmi
 NO  NAT.GEO.WILD.de | NAT GEO WILD | 52 programmi
-NO  NDR.de | NDR | 71 programmi
-NO  NHK.World.TV.de | NHK World TV | 100 programmi
-SI  NITRO.de | NITRO | 48 programmi
-NO  NOW.US.de | NOW US | 8 programmi
-NO  Nat.Geo.HD.de | Nat Geo HD | 49 programmi
-NO  Nautical.Channel.de | Nautical Channel | 73 programmi
-SI  Nick.Jr..de | Nick Jr. | 141 programmi
-SI  Nicktoons.de | Nicktoons | 120 programmi
-SI  ONE.de | ONE | 45 programmi
-NO  ORF.1.de | ORF 1 | 64 programmi
-NO  ORF.2.de | ORF 2 | 93 programmi
-NO  ORF.III.de | ORF III | 48 programmi
-NO  ORF.SPORT.+.de | ORF SPORT + | 44 programmi
-SI  PHOENIX.de | PHOENIX | 28 programmi
-NO  PULS.4.de | PULS 4 | 43 programmi
-NO  PULS.acht.de | PULS acht | 44 programmi
-NO  Playboy.TV.de | Playboy TV | 107 programmi
-SI  ProSieben.Fun.de | ProSieben Fun | 92 programmi
-SI  ProSieben.MAXX.de | ProSieben MAXX | 82 programmi
-SI  ProSieben.de | ProSieben | 63 programmi
+NO  NDR.de | NDR | 65 programmi
+NO  NHK.World.TV.de | NHK World TV | 90 programmi
+SI  NITRO.de | NITRO | 41 programmi
+NO  NOW.US.de | NOW US | 12 programmi
+NO  Nat.Geo.HD.de | Nat Geo HD | 51 programmi
+NO  Nautical.Channel.de | Nautical Channel | 72 programmi
+SI  Nick.Jr..de | Nick Jr. | 124 programmi
+SI  Nicktoons.de | Nicktoons | 117 programmi
+SI  ONE.de | ONE | 43 programmi
+NO  ORF.1.de | ORF 1 | 61 programmi
+NO  ORF.2.de | ORF 2 | 85 programmi
+NO  ORF.III.de | ORF III | 44 programmi
+NO  ORF.SPORT.+.de | ORF SPORT + | 47 programmi
+SI  PHOENIX.de | PHOENIX | 34 programmi
+NO  PULS.4.de | PULS 4 | 36 programmi
+NO  PULS.acht.de | PULS acht | 51 programmi
+NO  Playboy.TV.de | Playboy TV | 111 programmi
+SI  ProSieben.Fun.de | ProSieben Fun | 82 programmi
+SI  ProSieben.MAXX.de | ProSieben MAXX | 71 programmi
+SI  ProSieben.de | ProSieben | 55 programmi
 SI  QVC.de | QVC | 39 programmi
 NO  QVC2.de | QVC2 | 39 programmi
-NO  RBB.de | RBB | 50 programmi
-SI  RTL.Crime.de | RTL Crime | 51 programmi
+NO  RBB.de | RBB | 47 programmi
+SI  RTL.Crime.de | RTL Crime | 53 programmi
 SI  RTL.Living.de | RTL Living | 53 programmi
-SI  RTL.Passion.de | RTL Passion | 65 programmi
-SI  RTL.de | RTL | 42 programmi
-SI  RTLZWEI.de | RTLZWEI | 39 programmi
-SI  RTLup.de | RTLup | 46 programmi
-SI  RiC.de | RiC | 57 programmi
+SI  RTL.Passion.de | RTL Passion | 68 programmi
+SI  RTL.de | RTL | 37 programmi
+SI  RTLZWEI.de | RTLZWEI | 38 programmi
+SI  RTLup.de | RTLup | 48 programmi
+SI  RiC.de | RiC | 58 programmi
 NO  Rocket.Beans.TV.de | Rocket Beans TV | 21 programmi
-NO  Romance.TV.de | Romance TV | 33 programmi
-SI  SAT.1.Gold.de | SAT.1 Gold | 49 programmi
-NO  SAT.1.de | SAT.1 | 33 programmi
+NO  Romance.TV.de | Romance TV | 35 programmi
+SI  SAT.1.Gold.de | SAT.1 Gold | 50 programmi
+NO  SAT.1.de | SAT.1 | 30 programmi
 NO  SAT.1.emotions.de | SAT.1 emotions | 61 programmi
-SI  SPORT1+.de | SPORT1+ | 30 programmi
-SI  SPORT1.de | SPORT1 | 35 programmi
-SI  SRF.1.de | SRF 1 | 71 programmi
-SI  SRF.zwei.de | SRF zwei | 41 programmi
-NO  STAR.TV.de | STAR TV | 20 programmi
-NO  SUPER.RTL.de | SUPER RTL | 109 programmi
-NO  SWR/SR.de | SWR/SR | 55 programmi
-NO  Servus.TV.Österreich.de | Servus TV Österreich | 51 programmi
-NO  Show.Turk.de | Show Turk | 15 programmi
-NO  Silverline.de | Silverline | 24 programmi
-NO  Sky.Atlantic.HD.de | Sky Atlantic HD | 55 programmi
-NO  Sky.Cinema.Action.HD.de | Sky Cinema Action HD | 21 programmi
-NO  Sky.Cinema.Classics.HD.de | Sky Cinema Classics HD | 22 programmi
+SI  SPORT1+.de | SPORT1+ | 34 programmi
+SI  SPORT1.de | SPORT1 | 29 programmi
+SI  SRF.1.de | SRF 1 | 66 programmi
+SI  SRF.zwei.de | SRF zwei | 40 programmi
+NO  STAR.TV.de | STAR TV | 23 programmi
+NO  SUPER.RTL.de | SUPER RTL | 93 programmi
+NO  SWR/SR.de | SWR/SR | 51 programmi
+NO  Servus.TV.Österreich.de | Servus TV Österreich | 45 programmi
+NO  Show.Turk.de | Show Turk | 14 programmi
+NO  Silverline.de | Silverline | 25 programmi
+NO  Sky.Atlantic.HD.de | Sky Atlantic HD | 51 programmi
+NO  Sky.Cinema.Action.HD.de | Sky Cinema Action HD | 22 programmi
+NO  Sky.Cinema.Classics.HD.de | Sky Cinema Classics HD | 20 programmi
 NO  Sky.Cinema.Family.HD.de | Sky Cinema Family HD | 22 programmi
 NO  Sky.Cinema.Highlights.HD.de | Sky Cinema Highlights HD | 20 programmi
-NO  Sky.Cinema.Premiere.HD.de | Sky Cinema Premiere HD | 21 programmi
-NO  Sky.Crime.de | Sky Crime | 44 programmi
-NO  Sky.Documentaries.de | Sky Documentaries | 45 programmi
-NO  Sky.Krimi.de | Sky Krimi | 40 programmi
-NO  Sky.Nature.de | Sky Nature | 46 programmi
-NO  Sky.One.de | Sky One | 51 programmi
-NO  Sky.Replay.HD.de | Sky Replay HD | 10 programmi
+NO  Sky.Cinema.Premiere.HD.de | Sky Cinema Premiere HD | 20 programmi
+NO  Sky.Crime.de | Sky Crime | 41 programmi
+NO  Sky.Documentaries.de | Sky Documentaries | 42 programmi
+NO  Sky.Krimi.de | Sky Krimi | 38 programmi
+NO  Sky.Nature.de | Sky Nature | 45 programmi
+NO  Sky.One.de | Sky One | 53 programmi
+NO  Sky.Replay.HD.de | Sky Replay HD | 11 programmi
 NO  Sky.Showcase.HD.de | Sky Showcase HD | 47 programmi
 NO  Sky.Sport.1.de | Sky Sport 1 | 8 programmi
-NO  Sky.Sport.10.de | Sky Sport 10 | 10 programmi
-NO  Sky.Sport.2.de | Sky Sport 2 | 13 programmi
-NO  Sky.Sport.3.de | Sky Sport 3 | 8 programmi
-NO  Sky.Sport.4.de | Sky Sport 4 | 13 programmi
-NO  Sky.Sport.5.de | Sky Sport 5 | 13 programmi
-NO  Sky.Sport.6.de | Sky Sport 6 | 10 programmi
-NO  Sky.Sport.7.de | Sky Sport 7 | 10 programmi
-NO  Sky.Sport.8.de | Sky Sport 8 | 10 programmi
-NO  Sky.Sport.9.de | Sky Sport 9 | 10 programmi
+NO  Sky.Sport.10.de | Sky Sport 10 | 11 programmi
+NO  Sky.Sport.2.de | Sky Sport 2 | 14 programmi
+NO  Sky.Sport.3.de | Sky Sport 3 | 9 programmi
+NO  Sky.Sport.4.de | Sky Sport 4 | 14 programmi
+NO  Sky.Sport.5.de | Sky Sport 5 | 14 programmi
+NO  Sky.Sport.6.de | Sky Sport 6 | 11 programmi
+NO  Sky.Sport.7.de | Sky Sport 7 | 11 programmi
+NO  Sky.Sport.8.de | Sky Sport 8 | 11 programmi
+NO  Sky.Sport.9.de | Sky Sport 9 | 11 programmi
 NO  Sky.Sport.Austria.1.HD.de | Sky Sport Austria 1 HD | 29 programmi
-NO  Sky.Sport.Austria.2.HD.de | Sky Sport Austria 2 HD | 12 programmi
-NO  Sky.Sport.Austria.3.HD.de | Sky Sport Austria 3 HD | 12 programmi
-NO  Sky.Sport.Austria.4.HD.de | Sky Sport Austria 4 HD | 12 programmi
+NO  Sky.Sport.Austria.2.HD.de | Sky Sport Austria 2 HD | 13 programmi
+NO  Sky.Sport.Austria.3.HD.de | Sky Sport Austria 3 HD | 10 programmi
+NO  Sky.Sport.Austria.4.HD.de | Sky Sport Austria 4 HD | 10 programmi
 NO  Sky.Sport.Austria.5.HD.de | Sky Sport Austria 5 HD | 15 programmi
 NO  Sky.Sport.Austria.6.HD.de | Sky Sport Austria 6 HD | 15 programmi
 NO  Sky.Sport.Austria.7.HD.de | Sky Sport Austria 7 HD | 15 programmi
 NO  Sky.Sport.Austria.de | Sky Sport Austria | 29 programmi
-NO  Sky.Sport.Bundesliga.1.de | Sky Sport Bundesliga 1 | 5 programmi
-NO  Sky.Sport.Bundesliga.10.de | Sky Sport Bundesliga 10 | 10 programmi
+NO  Sky.Sport.Bundesliga.1.de | Sky Sport Bundesliga 1 | 6 programmi
+NO  Sky.Sport.Bundesliga.10.de | Sky Sport Bundesliga 10 | 11 programmi
 NO  Sky.Sport.Bundesliga.2.de | Sky Sport Bundesliga 2 | 7 programmi
-NO  Sky.Sport.Bundesliga.3.de | Sky Sport Bundesliga 3 | 10 programmi
-NO  Sky.Sport.Bundesliga.4.de | Sky Sport Bundesliga 4 | 10 programmi
-NO  Sky.Sport.Bundesliga.5.de | Sky Sport Bundesliga 5 | 10 programmi
-NO  Sky.Sport.Bundesliga.6.de | Sky Sport Bundesliga 6 | 10 programmi
-NO  Sky.Sport.Bundesliga.7.de | Sky Sport Bundesliga 7 | 10 programmi
-NO  Sky.Sport.Bundesliga.8.de | Sky Sport Bundesliga 8 | 10 programmi
-NO  Sky.Sport.Bundesliga.9.de | Sky Sport Bundesliga 9 | 10 programmi
-NO  Sky.Sport.Bundesliga.UHD.de | Sky Sport Bundesliga UHD | 16 programmi
-NO  Sky.Sport.Bundesliga.de | Sky Sport Bundesliga | 42 programmi
-SI  Sky.Sport.F1.de | Sky Sport F1 | 34 programmi
-SI  Sky.Sport.Golf.de | Sky Sport Golf | 22 programmi
-SI  Sky.Sport.Mix.de | Sky Sport Mix | 35 programmi
-SI  Sky.Sport.News.de | Sky Sport News | 34 programmi
-NO  Sky.Sport.Premier.League.de | Sky Sport Premier League | 69 programmi
-SI  Sky.Sport.Tennis.de | Sky Sport Tennis | 40 programmi
-SI  Sky.Sport.Top.Event.de | Sky Sport Top Event | 26 programmi
-NO  Sky.Sport.UHD.de | Sky Sport UHD | 18 programmi
-SI  Sonnenklar.TV.de | Sonnenklar.TV | 63 programmi
-NO  Spiegel.Geschichte.de | Spiegel Geschichte | 66 programmi
+NO  Sky.Sport.Bundesliga.3.de | Sky Sport Bundesliga 3 | 11 programmi
+NO  Sky.Sport.Bundesliga.4.de | Sky Sport Bundesliga 4 | 11 programmi
+NO  Sky.Sport.Bundesliga.5.de | Sky Sport Bundesliga 5 | 11 programmi
+NO  Sky.Sport.Bundesliga.6.de | Sky Sport Bundesliga 6 | 11 programmi
+NO  Sky.Sport.Bundesliga.7.de | Sky Sport Bundesliga 7 | 11 programmi
+NO  Sky.Sport.Bundesliga.8.de | Sky Sport Bundesliga 8 | 11 programmi
+NO  Sky.Sport.Bundesliga.9.de | Sky Sport Bundesliga 9 | 11 programmi
+NO  Sky.Sport.Bundesliga.UHD.de | Sky Sport Bundesliga UHD | 13 programmi
+NO  Sky.Sport.Bundesliga.de | Sky Sport Bundesliga | 45 programmi
+SI  Sky.Sport.F1.de | Sky Sport F1 | 33 programmi
+SI  Sky.Sport.Golf.de | Sky Sport Golf | 23 programmi
+SI  Sky.Sport.Mix.de | Sky Sport Mix | 37 programmi
+SI  Sky.Sport.News.de | Sky Sport News | 38 programmi
+NO  Sky.Sport.Premier.League.de | Sky Sport Premier League | 64 programmi
+SI  Sky.Sport.Tennis.de | Sky Sport Tennis | 38 programmi
+SI  Sky.Sport.Top.Event.de | Sky Sport Top Event | 28 programmi
+NO  Sky.Sport.UHD.de | Sky Sport UHD | 21 programmi
+SI  Sonnenklar.TV.de | Sonnenklar.TV | 41 programmi
+NO  Spiegel.Geschichte.de | Spiegel Geschichte | 61 programmi
 NO  Sport.1.-.myTeamTV.de | Sport 1 - myTeamTV | 12 programmi
 NO  Sport.10.-.myTeamTV.de | Sport 10 - myTeamTV | 12 programmi
 NO  Sport.11.-.myTeamTV.de | Sport 11 - myTeamTV | 12 programmi
@@ -202,56 +202,55 @@ NO  Sport.14.-.myTeamTV.de | Sport 14 - myTeamTV | 12 programmi
 NO  Sport.15.-.myTeamTV.de | Sport 15 - myTeamTV | 12 programmi
 NO  Sport.16.-.myTeamTV.de | Sport 16 - myTeamTV | 12 programmi
 NO  Sport.17.-.myTeamTV.de | Sport 17 - myTeamTV | 12 programmi
-NO  Sport.18.-.myTeamTV.de | Sport 18 - myTeamTV | 13 programmi
+NO  Sport.18.-.myTeamTV.de | Sport 18 - myTeamTV | 12 programmi
 NO  Sport.2.-.myTeamTV.de | Sport 2 - myTeamTV | 12 programmi
 NO  Sport.3.-.myTeamTV.de | Sport 3 - myTeamTV | 12 programmi
-NO  Sport.4.-.myTeamTV.de | Sport 4 - myTeamTV | 13 programmi
-NO  Sport.5.-.myTeamTV.de | Sport 5 - myTeamTV | 13 programmi
+NO  Sport.4.-.myTeamTV.de | Sport 4 - myTeamTV | 12 programmi
+NO  Sport.5.-.myTeamTV.de | Sport 5 - myTeamTV | 12 programmi
 NO  Sport.6.-.myTeamTV.de | Sport 6 - myTeamTV | 12 programmi
 NO  Sport.7.-.myTeamTV.de | Sport 7 - myTeamTV | 12 programmi
 NO  Sport.8.-.myTeamTV.de | Sport 8 - myTeamTV | 12 programmi
 NO  Sport.9.-.myTeamTV.de | Sport 9 - myTeamTV | 12 programmi
-NO  SportDigital1+.de | SportDigital1+ | 30 programmi
-NO  SyFy.de | SyFy | 46 programmi
-SI  TLC.de | TLC | 53 programmi
-NO  TOGGO.plus.de | TOGGO plus | 115 programmi
-NO  TV2.de | TV2 | 50 programmi
-NO  TV5.Monde.de | TV5 Monde | 100 programmi
-SI  Tele.5.de | Tele 5 | 29 programmi
-NO  The.HISTORY.Channel.de | The HISTORY Channel | 49 programmi
-NO  Top.Serien.de | Top Serien | 62 programmi
-NO  Trace.TV.de | Trace TV | 17 programmi
-NO  Turkmax.Gurme.de | Turkmax Gurme | 54 programmi
-NO  UHD1.de | UHD1 | 32 programmi
-NO  Universal.Channel.HD.de | Universal Channel HD | 29 programmi
+NO  SportDigital1+.de | SportDigital1+ | 34 programmi
+NO  SyFy.de | SyFy | 48 programmi
+SI  TLC.de | TLC | 52 programmi
+NO  TOGGO.plus.de | TOGGO plus | 97 programmi
+NO  TV2.de | TV2 | 45 programmi
+NO  TV5.Monde.de | TV5 Monde | 96 programmi
+SI  Tele.5.de | Tele 5 | 31 programmi
+NO  The.HISTORY.Channel.de | The HISTORY Channel | 51 programmi
+NO  Top.Serien.de | Top Serien | 60 programmi
+NO  Trace.TV.de | Trace TV | 19 programmi
+NO  Turkmax.Gurme.de | Turkmax Gurme | 59 programmi
+NO  UHD1.de | UHD1 | 33 programmi
+NO  Universal.Channel.HD.de | Universal Channel HD | 31 programmi
 SI  VOX.de | VOX | 42 programmi
-SI  VOXup.de | VOXup | 36 programmi
-SI  WDR.de | WDR | 60 programmi
-SI  WELT.de | WELT | 131 programmi
-NO  Warner.TV.Comedy.de | Warner TV Comedy | 96 programmi
+SI  VOXup.de | VOXup | 37 programmi
+SI  WDR.de | WDR | 61 programmi
+SI  WELT.de | WELT | 114 programmi
+NO  Warner.TV.Comedy.de | Warner TV Comedy | 98 programmi
 NO  Warner.TV.Film.de | Warner TV Film | 21 programmi
-NO  Warner.TV.Serie.de | Warner TV Serie | 51 programmi
-SI  Welt.der.Wunder.TV.de | Welt der Wunder TV | 37 programmi
-SI  ZDF.de | ZDF | 49 programmi
-SI  ZDFinfo.de | ZDFinfo | 56 programmi
-SI  ZDFneo.de | ZDFneo | 49 programmi
-NO  eSports1.de | eSports1 | 7 programmi
-NO  eSportsONE.de | eSportsONE | 7 programmi
-NO  euronews.(ger).de | euronews (ger) | 147 programmi
-SI  kabel.eins.Doku.de | kabel eins Doku | 51 programmi
-NO  kabel.eins.classics.de | kabel eins classics | 25 programmi
-SI  kabel.eins.de | kabel eins | 40 programmi
-NO  münchen.tv.de | münchen.tv | 111 programmi
-NO  nick.de | nick | 80 programmi
-SI  ntv.de | ntv | 86 programmi
-NO  oe24.TV.de | oe24.TV | 44 programmi
-SI  sixx.de | sixx | 49 programmi
+NO  Warner.TV.Serie.de | Warner TV Serie | 53 programmi
+SI  Welt.der.Wunder.TV.de | Welt der Wunder TV | 33 programmi
+SI  ZDF.de | ZDF | 44 programmi
+SI  ZDFinfo.de | ZDFinfo | 54 programmi
+SI  ZDFneo.de | ZDFneo | 52 programmi
+NO  eSports1.de | eSports1 | 8 programmi
+NO  eSportsONE.de | eSportsONE | 8 programmi
+NO  euronews.(ger).de | euronews (ger) | 152 programmi
+SI  kabel.eins.Doku.de | kabel eins Doku | 52 programmi
+NO  kabel.eins.classics.de | kabel eins classics | 24 programmi
+SI  kabel.eins.de | kabel eins | 39 programmi
+NO  münchen.tv.de | münchen.tv | 110 programmi
+NO  nick.de | nick | 76 programmi
+SI  ntv.de | ntv | 73 programmi
+NO  oe24.TV.de | oe24.TV | 31 programmi
+SI  sixx.de | sixx | 54 programmi
 NO  sky.showcase.de | sky showcase | 47 programmi
-NO  sportdigital.Fussball.de | sportdigital Fussball | 28 programmi
-SI  tagesschau24.de | tagesschau24 | 37 programmi
+NO  sportdigital.Fussball.de | sportdigital Fussball | 25 programmi
+SI  tagesschau24.de | tagesschau24 | 52 programmi
 NO  travelxp.4K.de | travelxp 4K | 77 programmi
-NO  tv-media.PULS.24.de | PULS 24 | 1 programmi
-NO  tv.berlin.de | tv.berlin | 77 programmi
+NO  tv.berlin.de | tv.berlin | 79 programmi
 
 == Canali delle PLAYLIST senza guida (per nome) ==
 90210
